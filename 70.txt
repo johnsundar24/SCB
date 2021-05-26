@@ -1,0 +1,621 @@
+
+
+
+
+
+
+
+
+
+
+6 developments that will define AI governance in 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+  
+
+
+
+
+Search Brookings
+
+
+
+ Search
+
+
+About UsPress RoomExpertsEventsBrookings PressWashU@BrookingsCareersNewslettersSupport Brookings
+
+
+Cart
+0
+
+
+Search  Guidance for the Brookings community and the public on our response to the coronavirus (COVID-19) »
+Learn more from Brookings scholars about the global response to coronavirus (COVID-19) »
+
+
+
+
+
+ The Brookings Institution
+ 
+
+ The Brookings Institution
+ 
+
+
+6 developments that will define AI governance in 2021
+FacebookTwitterLinkedInPrintSMSEmailMoreRedditAI
+Cities & Regions
+Global Dev
+Intl Affairs
+U.S. Economy
+U.S. Politics & Govt
+More
+ 
+ Search
+
+
+
+ Menu
+
+
+0
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Report
+6 developments that will define AI governance in 2021
+
+Alex Engler
+Thursday, January 21, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+FacebookTwitterLinkedInPrintSMSEmailMoreReddit
+For media inquiries, contact:
+
+Governance Studies Main Line
+202.797.6090
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alex Engler
+
+					Rubenstein Fellow - Governance Studies 
+
+ Twitter
+@AlexCEngler
+
+
+
+
+
+This year is poised to be a highly impactful period for the governance of artificial intelligence (AI). The Trump administration successfully pushed for hundreds of millions of dollars in AI research funding, while also encouraging the formalization of federal AI practices. President Joe Biden will start his new administration with federal agencies already working to comply with executive guidance on how to use and regulate AI. Beyond passing the AI spending increases, Congress also tasked the White House with creating a new National AI Initiative Office to orchestrate these developments. All this comes as the European Commission (EC) has put forth the Digital Services Act, which will create oversight for how internet platforms use AI. The EC is also poised to propose a comprehensive approach to AI safeguards in the spring. Taking all this into account, 2021 promises to be an important inflection point for AI policy.
+1) AI Regulations by the Federal Government
+On Nov. 17, 2020, the Office of Management and Budget (OMB) issued final guidance to federal agencies on when and how to regulate the private sector use of AI. This document presents a broad perspective on AI oversight, offering a set of guiding principles and generally adopting an anti-regulatory framing. Critically, it also prompts immediate action by requiring federal agencies to provide compliance plans by May 17, 2021. According to the OMB’s template, these plans should document the agency’s authorities over AI applications, information collections on the use of AI, perceived regulatory barriers to AI innovation, and planned regulatory actions. This information could be quite valuable to the Biden administration in considering what additional support the agencies might need to effectively regulate AI, and may play a role in next steps.
+“Major legislative changes to AI oversight seem unlikely in the near future, which means that regulatory interventions will set precedent for the government’s approach to protecting citizens from AI harms.”
+Major legislative changes to AI oversight seem unlikely in the near future, which means that regulatory interventions will set precedent for the government’s approach to protecting citizens from AI harms. For instance, some regulations need to be adapted to ensure consumer safety, such as for autonomous vehicles by the Department of Transportation and AI-enhanced medical devices by the Food and Drug Administration. Other cases require new rules, including at the Equal Employment Opportunity Commission for enforcing anti-discrimination laws on AI hiring systems. Still others need to be reversed, such as a regulation that places an insurmountable burden of proof on claims of discrimination against algorithms used for mortgage or rental applications. In the absence of guiding legislation, these agency-driven interventions, framed by the OMB guidance, will significantly inform future AI oversight.
+2) Using AI in the Civilian Federal Government
+On Dec. 3, 2020, the White House issued an executive order that sets timelines for cataloging AI applications, kickstarting a process aimed to ensure trustworthy use of AI in the federal government. To do this, the executive order lays out a set of AI principles and tasks the OMB with creating a roadmap for implementing these principles by June 1, 2021. That roadmap is likely to specify when the OMB will develop new policy guidance for AI use by the public sector—moving from the vague principles in the executive order to actionable rules on how the federal government uses AI.
+The order also tasks the Federal Chief Information Officers Council with creating guidance and requirements for an inventory of AI applications by Feb. 1, 2021. Federal agencies will then have 180 days (until around July 2021), to inventory the ways in which they use AI, excluding classified or sensitive use cases. These inventories are intended to be shared among agencies and to be made public, to the extent possible, by the end of November 2021 at the latest. This will likely be the most extensive cataloging of AI applications in the federal government, continuing the work of “Government by Algorithm,” a report written for the Administrative Conference of the United States that found that 45% of canvassed agencies have at least explored using AI.
+
+
+Related Content
+
+
+
+
+
+
+ 
+
+
+
+Technology & Innovation
+How the Biden administration should tackle AI oversight
+
+Alex Engler
+Thursday, December 10, 2020
+
+
+
+
+
+
+
+ 
+
+
+
+TechTank
+Platform data access is a lynchpin of the EU’s Digital Services Act
+
+Alex Engler
+Friday, January 15, 2021
+
+
+
+
+
+In the process of performing the inventory, the agencies are to evaluate whether their AI applications are consistent with the AI principles set forward in the executive order. However, given the vagueness of the principles, what this means will depend on the more specific guidance from the OMB. For instance, a reasonable interpretation of the guidance’s requirement of adherence to civil rights could be in conflict with how the Internal Revenue Service uses prison data in its AI system for detecting fraudulent tax returns. Further, the criteria that AI systems be “understandable” and “transparent” may also pose challenges to the 33% of federal AI systems that are built by external contractors using proprietary software. Presumably, the development of both the agency inventory and the OMB roadmap will affect one another, and, optimistically, this will lead to a more informed process and higher standards for the trustworthy and transparent use of federal government AI.
+3) Formation of the White House National AI Initiative Office
+Within the National Defense Authorization Act (NDAA), Congress created a new National AI Initiative Office for federal AI coordination. Set within the White House Office of Science and Technology Policy, the National AI Initiative Office will need to be staffed up during a rush of AI activity. Under the Trump administration, AI policy efforts were led by Chief Technology Officer (CTO) Michael Kratsios and Deputy Chief Technology Officer Dr. Lynne Parker. This reflects the intense focus of the Trump administration on AI, often to the detriment of other critical technology issues. If President Biden returns to a model similar to the Obama administration, then the CTO’s office may take on a broader range of projects, leaving the new National AI Initiative Office to lead AI projects. It may still continue to inform the National Science and Technology Council’s Select Committee on Artificial Intelligence, which was set up to coordinate federal research and development efforts in 2018.
+“[A]gencies will benefit from a centralized office with specific technical knowledge to assist in the trustworthy and transparent application of AI.”
+That coordination looks to be quite valuable, as evidenced by multiple streams of AI research funding, such as from the National Science Foundation (NSF), Department of Energy (DOE), National Oceanic and Atmospheric Administration, and funding from defense-related sources, such as  the Defense Advanced Research Projects Agency. Further, agencies will benefit from a centralized office with specific technical knowledge to assist in the trustworthy and transparent application of AI. This new office may play an important role for the governance of AI, as this office would be well-positioned to share knowledge and build collaboration between agencies.
+4) An Expansion of AI Research Funding and Capacity
+In 2020, the NSF announced $140 million in funding for seven new AI research institutes at domestic universities. On top of these, the NSF has started a new grant-making process for $160 million for eight additional AI institutes in 2021. This funding totals $300 million over five years for a network of national AI institutes. It also means that the NSF is staying ahead of Congress, which passed a requirement for such a network in the NDAA (§5201). This network will cover a broad range of AI research: from climate modeling to food systems (the Department of Agriculture is a partner on several institutes); and from the foundations of machine learning to how “AI partners” can help students learn in the classroom.
+More broadly, the NSF requested $868 million for AI-related funding in 2021 and is required by Congress to spend at least as much as was spent in 2020 (around $500 million). This would represent just over 10% of the NSF’s $8.5 billion 2021 budget, but this number should be interpreted carefully. This is a very inclusive definition, counting all NSF-funded research projects that apply artificial intelligence, not just those that are primarily concerned with AI. This includes many computer science and engineering projects, as well as those in other scientific fields and even the social sciences. It also counts funding toward education, workforce development, as well as data and computing access, such as NSF’s CloudBank program to help grantees better use cloud services. A careful read of the NSF budget requests suggests that fundamental research on AI—think advances in computer vision and natural language processing—may increase by tens of millions of dollars in 2021, rather than hundreds of millions. This acts as a reminder that how AI spending is defined has a significant effect on measurement of the investment—as has also been noted by the Center for Security and Emerging Technology.
+
+Related Books
+
+
+
+
+
+
+ 
+
+
+
+Turning Point
+
+
+						By Darrell M. West and John R. Allen 
+2020
+
+
+
+
+
+
+Regardless of the exact figure, NSF funding of AI is certainly rising, and the NSF isn’t the only non-defense contributor to AI research. The NDAA also calls on the DOE to advance AI research program—building on the tens of millions it provided in 2020 for projects related to new algorithms, AI for complex decision-making, and even fusion energy. Most notably, the NDAA requires the DOE to “make available high-performance computing infrastructure at national laboratories.” The DOE’s National Laboratories have some of the most powerful supercomputers in the world, including Summit at the Oak Ridge National Lab and Sierra at Lawrence Liverpool National Lab. In 2021, the DOE is expecting to switch on its first two exascale computers—Frontier, also at Oak Ridge, and Aurora at Argonne National Labs. Depending on how the Biden administration interprets this instruction, the DOE’s computing infrastructure could play a big role in the development of AI.
+5) The European Union’s Imminent AI Legislation
+Easily as important as developments within the U.S. are those expected from the European Union. European Commission (EC) President Ursula von der Leyen has made AI oversight a priority and is expected to put forth legislation in the first half of 2021. Despite a delay due to the COVID-19 pandemic, the EC has been working steadily toward this goal, and the proposal will build on the AI white paper and the Ethics Guidelines for Artificial Intelligence. In September 2020, the European Parliament voted overwhelmingly to encourage just such a proposal from the EC, signaling a possible path to passage, but it could also require unanimous approval by the heads of all EU nations.
+“Easily as important as developments within the U.S. are those expected from the European Union.”
+This legislation is expected to propose a system for AI oversight of high-risk applications. This entails answering many difficult questions, such as defining what makes an AI system high-risk and determining what specific requirements that would necessitate. The EC will also have to decide how to enforce its new law and who is accountable for AI harms. These are tough questions, but given the clear dangers posed by AI systems, the EC is right to focus its attention on them.
+However, the legislation also risks creating a digital boundary for some algorithmic services between the Europe and the rest of the world. Many AI systems that are likely to be high-risk can be employed across borders, like those built into the software systems for employment decisions and financial eligibility. Specific to the U.S., if the EU creates a system with stricter restrictions than Congress is willing to approve, the regulatory inconsistency may dampen trade and reduce the effectiveness of the regulations. Unfortunately, the EU has not yet been given much information to work on from the U.S., which may explain why President von der Leyen recently argued that “we need to start acting together on AI” in her November speech at the Council on Foreign Relations.
+6) The European Union’s Digital Services Act
+The EC has already put forth two other important pieces of legislation for the governance of technology companies—the Digital Markets Act (DMA) and the Digital Services Act (DSA). While the DMA is primarily concerned with how large “gatekeeper” technology companies restrict competition, the DSA would have significant impacts on the use of AI. The DSA would create new rules around the hosting of online content, including both user-contributed content and advertising. While the DSA doesn’t mandate anything specific to how algorithms work, it would create additional transparency. For instance, it requires that a “clear and specific statement of reasons” be provided to users any time their content is removed or disabled, even if that was done by an automated system.
+The DSA also requires that all online platforms present the “main parameters” used for the targeting of advertisements. This means that when a user sees an advertisement, it will need to come with a label indicating which variables were most important in showing that specific advertisement to that user. This could be user information, such as their age, education, and economic status. It could also be the user’s behavior—either based on content they have engaged with on that website, or based on tracking information from other websites. It’s plausible that this transparency will help users better understand the ads directed at them and the ways in which the internet platforms surveils them. In addition, the largest companies must also make available a database of the ads, including to what groups they were targeted, offering a rare public view into the ad tech industry.
+“While the effect of some transparency measures might be mild, researcher access to the data from the largest platforms could be enormously valuable for improving their role in society.”
+This is not the only additional rule for very large internet platform, which are defined as those with more than 45 million active users in the EU. The DSA would offer new insights into the function of these large platforms. First, the platforms must allow an independent third-party audit to examine how they are handling illegal content and platform manipulation. Second, the DSA would enable approved academic researchers to access datasets from the companies. If researchers are able to get access to the otherwise private data at a sufficiently granular level, this would provide unprecedented views into the benefits and harms of the algorithms that power the platforms. It might also enable the researchers to challenge the choices the companies make and aid the commission in pushing for alternatives that emphasize the public good over private earnings. Lastly, the platforms will also need to offer more insight into how their recommender systems work; these are the algorithms that decide what tweets and Facebook posts you see, as well as what YouTube videos are recommended to you. Since this requirement only applies to the algorithm as a whole, and not individual pieces of content, it’s not clear precisely what impact this will have.
+All in all, the DSA would entail the most transparency into the function of algorithms in the world, at least for large internet platforms like Facebook, Twitter, YouTube, TikTok, and Amazon. While the effect of some transparency measures might be mild, researcher access to the data from the largest platforms could be enormously valuable for improving their role in society.
+An Inflection Point in AI Governance
+So much more seems possible in the realm of AI in 2021. Congress might take action to curb the use of facial recognition as some U.S. cities have, or expand the Federal Trade Commission’s authority to curtail the most harmful AI practices. The Global Partnership on AI may move the democratic world toward more principled use of AI—the working groups on responsible AI and data governance are especially worth watching. Efforts to increase competition in the technology sector, from the antitrust investigations into Facebook and Google to the EC’s proposed DMA, are also likely to have spill-over effects into the function of algorithms.
+Even if none of this were to happen, 2021 still may be a foundational year in the governance of artificial intelligence in the United States. The expansion of AI research funding and coordination by the new National AI Initiative Office places the federal government in a far more prominent role in AI research. With federal rulemaking kicking into gear, agencies now need to start making choices that may put the U.S. on a different path than the bolder steps of the EU. After gaining momentum and attention for years, AI policy may see consequential changes in 2021.
+
+The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical recommendations for policymakers and the public. The conclusions and recommendations of any Brookings publication are solely those of its author(s), and do not reflect the views of the Institution, its management, or its other scholars.
+Amazon, Facebook, and Google provide general, unrestricted support to the Institution. The findings, interpretations, and conclusions in this report are not influenced by any donation. Brookings recognizes that the value it provides is in its absolute commitment to quality, independence, and impact. Activities supported by its donors reflect this commitment.
+
+
+
+Report Produced by Center for Technology Innovation
+
+
+
+
+
+
+Related Topics
+
+Technology & Innovation
+
+
+
+
+
+More on Technology & Innovation
+
+
+
+
+
+
+ 
+
+
+
+TechStream
+How to solve the puzzle of missing productivity growth
+
+Erik Brynjolfsson, Seth G. Benzell, and Daniel Rock
+Friday, May 21, 2021
+
+
+
+
+
+
+
+ 
+
+
+
+TechStream
+Explainability won’t save AI
+
+Jessica Newman
+Wednesday, May 19, 2021
+
+
+
+
+
+
+Wed
+Jun
+2
+
+
+Upcoming Event
+Can Biden’s broadband infrastructure plan close the digital divide?
+
+2:00 PM -
+						
+							3:00 PM EDT						
+
+
+						Online only					
+
+
+
+
+
+
+
+
+ The Brookings Institution
+
+
+
+
+
+ Facebook
+Find us on Facebook
+
+
+
+
+ Twitter
+Find us on Twitter
+
+
+
+
+ YouTube
+Find us on YouTube
+
+
+
+
+ Podcast
+Listen to our Podcast
+
+
+
+
+ Browse Newsletters
+Browse Newsletters
+
+
+
+
+ RSS
+Subscribe to our RSS
+
+
+
+
+
+Languages
+Español
+中文
+عربي
+
+
+
+
+About Us
+Research Programs
+Find an Expert
+Careers
+Contact
+Terms and Conditions
+Brookings Privacy Policy
+Copyright 2021 The Brookings Institution
+
+
+
+
+ The Brookings Institution
+
+ Close
+
+
+
+
+Trending
+
+
+
+
+				U.S. Economy			
+
+
+
+				Education			
+
+
+
+				International Affairs			
+
+
+
+
+Topics
+
+
+
+
+				AI			
+
+
+
+				Cities & Regions			
+
+
+
+				Global Dev			
+
+
+
+				Intl Affairs			
+
+
+
+				U.S. Economy			
+
+
+
+				U.S. Politics & Govt			
+
+
+
+				More			
+
+
+
+
+
+				About Us			
+
+
+
+				Press Room			
+
+
+
+				Experts			
+
+
+
+				Events			
+
+
+
+				Brookings Press			
+
+
+
+				WashU@Brookings			
+
+
+
+				Careers			
+
+
+
+				Newsletters			
+
+
+
+				Support Brookings			
+
+
+
+Cart
+0
+
+
+
+
+
+Get daily updates from Brookings
+
+
+
+
+
+
+
+    
+Enter Email
+  
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,916 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Born In The Pandemic: Digital Health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global Locations
+Contact
+Media Center
+Alumni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Culture
+
+
+
+
+Our People
+
+
+
+
+Our Values
+
+
+
+
+Our History
+
+
+The Greater Good
+
+
+Strategic Partners
+
+
+
+
+
+
+Our Impact
+
+
+
+
+Recognition and Accolades
+
+
+
+
+
+
+Alumni
+
+
+
+
+Inclusion & Diversity
+
+
+
+
+MissionINCLUDE
+
+
+2018 UK Gender Pay Gap Report
+
+
+Women At Oliver Wyman (WOW)
+
+
+Employees Of Oliver Wyman Enabling Racial & Ethnic Diversity (EMPOWERED)
+
+
+LGBT+ And Allies At Oliver Wyman
+
+
+Veterans Of Oliver Wyman (VOW)
+
+
+Family Life At Oliver Wyman (FLOW)
+
+
+Introversion At Oliver Wyman
+
+
+2020 UK Gender Pay Gap Report
+
+
+
+
+
+
+Oliver Wyman For Society
+
+
+
+
+Sustainability
+
+
+
+
+
+
+
+
+Our Expertise
+
+
+
+
+Industries
+
+
+
+
+Automotive
+
+
+Business Services
+
+
+Communications, Media, And Technology
+
+
+Education
+
+
+Energy
+
+
+Financial Services
+
+
+Health And Life Sciences
+
+
+Industrial Products
+
+
+Public Sector And Policy
+
+
+Retail And Consumer Goods
+
+
+Transportation
+
+
+
+
+
+
+Capabilities
+
+
+
+
+Actuarial
+
+
+Climate And Sustainability
+
+
+Corporate Finance And Restructuring
+
+
+Digital
+
+
+Lippincott: Brand and Innovation
+
+
+Operations
+
+
+Organizational Effectiveness
+
+
+Payments
+
+
+Pricing, Sales, And Marketing
+
+
+Risk Management
+
+
+Strategy
+
+
+Oliver Wyman Engineers
+
+
+
+
+
+
+Insights
+
+
+
+
+Events
+
+
+
+
+Hubs
+
+
+
+
+
+
+
+
+Careers
+
+
+
+
+Students and Recent Graduates
+
+
+
+
+Roles At Oliver Wyman
+
+
+
+
+Apply Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insights
+Born In The Pandemic: Digital Health
+Featured in The Middle East Insurance Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Expertise
+
+
+
+
+
+Insights
+
+
+
+
+
+Born In The Pandemic: Digital Health
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Dr. Sven-Olaf Vathje
+This article first appeared in the Middle East Insurance Review on January 03, 2021.
+
+
+
+
+
+The year 2020 will go down in history books as the year when it finally happened – the forceful arrival of digital health solutions in everyday healthcare.
+
+For decades, healthcare provider systems around the world had been investing where they always had in brick-and-mortar assets for more or less shiny  facilities, in physical physician-patient interactions in dedicated environments, and into more doctors and more nurses to tackle the ever-increasing need for care.
+The Middle East was no exception from this pattern. Driven by rapidly growing populations, an early prevalence of chronic diseases, and an open mind for medical innovations, governments and the private sector have both been pouring significant funds into the health sector to essentially finance ‘more of the same’ care. As a result, total health spending in GCC countries is structurally rising between 8% and 10% annually, which is well above GDP growth rates. Despite significant wastage in GCC health systems, Oliver Wyman estimates that up to 20% to 35% of total health spending is either inefficient, inappropriate or unnecessary care – the fundamental model of physical care delivery has rarely been challenged.
+A turning point for telemedicine
+It took the COVID-19 pandemic to spark the disruption of health systems in the Middle East. One of the cornerstones of traditional care delivery, the physical contact between physician and patient was affected by infectious risks. For a brief period of time, utilisation numbers dropped significantly. At the initial peak of COVID-19, some GCC health systems saw inpatient stays in hospitals drop by up to 40% (compared to 2019) and outpatient hospital visits by up to 50%.
+Primary care saw a similar reduction in visits. In subsequent months, numbers have reverted quickly to more normal levels. Inpatient stays and outpatient visits are almost back to pre-pandemic levels for many providers, reflecting rapidly established new safety protocols (creating trust in patients) and pent-up demand that cannot further be delayed.
+The rapid recovery of primary care demand is a different story. Providers adapted to a new normal and started moving their patients into telemedicine channels. Initially, telemedicine was more of the self-made version, using impromptu phone and video-calling for patient interactions. Many providers subsequently adopted tailored telemedicine platform products. Payers supported the shift to telemedicine as a new entry point into healthcare with their own versions of telemedicine applications. Often, these telemedicine applications had been under development pre-pandemic and were now being rolled out swiftly to an increasingly interested membership.
+Penetration numbers with telemedicine are impressive: In the Middle East, several government systems reported adoption rates of up to 10% to 15% for telemedicine visits in primary care. In the early days of COVID-19, a large public health system in the GCC even saw a rapid increase in telehealth visits of up to 30% of total visits.
+While this is not yet a new standard of care, it indicates that patient adoption of telemedicine is not an insurmountable barrier in the region. With the right solutions in place, there is a clear opportunity to digitalise care delivery. As some initial evidence from select US health systems shows, ultimately up to 60% of primary care visits may be replaced by telehealth interactions.
+Emerging trends within the digital health landscape
+The significance of the quick adoption of digital health solutions in the Middle East cannot be underestimated. Most industry experts would have expected the currently observed adoption rates a decade later. Interestingly, adoption rates are high across all patient segments, including at-risk patients.
+There are several reasons to believe digital health is about to stay:
+·        Patients have for a long time voiced their dissatisfaction with the consumer experience in healthcare, especially in primary care. Nowadays, consumers are used to obtaining services when they want it, where they want it. Healthcare providers have been reluctant to listen, quoting concerns about privacy, patient experience, and workflow integration issues. The success of new digital operating models in the pandemic are proving critics wrong.
+·        Digital health solutions may start with telemedicine applications, but they will not stop there. The integration of all patient health data is the natural next step, as is the integration of supplemental data from wearable devices for ongoing health monitoring. With the growing amount of personalised and easily accessible data, consumer-facing AI-based applications will soon gain traction. How long will it be before consumers will have a digital companion for individualised predictive maintenance and prevention?
+·        Digital health will also reshape provider work environments, with a range of AI and telemedicine solutions evolving to support triaging, diagnosis and second opinion. Health systems will embrace digital health data for purposes of end-to-end care management.
+·        Finally, digital health will provide the basis for the combination of the two mega-trends of our century: AI and genomics. The combination of highly accessible behavioural and phenotypical data with genotypical information on disease predispositions will open the door to the next level of truly personalised medicine. The move from analogue to digital health is a prerequisite.
+Implications for health insurers
+The COVID-19 pandemic is shaking up GCC health insurers’ business significantly. In the short term, higher claims cost from COVID-19-related patient care and prevention (e.g., PCR tests, vaccines) could be partially offset by a somewhat lower overall health system utilisation. The implications from increased member usage of digital health are currently overlaid by the broader pandemic noise. What will we see when the dust settles? Will digital health substitute or complement traditional healthcare models?
+In the mid-term, health insurers can expect a number of implications from digital health: 
+·        The emerging health system transformation towards digital health is imposing a ‘hybrid’ business model on providers running brick-and-mortar operations and digital health operations side-by-side. Viable digital health solutions will require capital investments. This may create upward cost pressure on reimbursement rates. To the extent that digital health is lowering the barrier of access to care, overall system utilisation may be drifting upwards in the coming years, putting upward pressure on premiums as well.
+·        The consumer experience will grow in importance for successful digital health offerings. This provides an opportunity for GCC health insurers to develop new digital health offerings of their own, creating new competitive angles of attack. Differentiation opportunities will also result from the extent to which digital health solutions will be included in tables of benefits.
+·        Disease-specific digital solutions for the highest cost cohorts may become a necessity soon, supporting health insurers in managing medical loss ratios where it matters the most.
+·        It remains to be seen how quickly public GCC health providers will be able to scale up attractive digital health offerings. For health insurers, an opportunity may open up selling optional health policies that specifically cover private digital health channels to GCC nationals that are otherwise tied to their government health system (e.g., in Saudi Arabia).
+·        Ultimately, the more acceptance digital health offerings are gaining amongst consumers, the more there will be the opportunity for GCC health insurers to vertically integrate the front door to healthcare into their own offering (regulation permitting). Research shows that 50% to 60% of primary care episodes can be taken care of remotely by telemedicine channels. Controlling the front door to health would put health insurers into the favourable position to help members navigate the most adequate pathways, ultimately removing unnecessary spend from the system.
+·        In the long term, the prevalence of digital health channels and associated accumulated health data (probably accessible to patients) may impact health insurers much more fundamentally. The more consumers know about their own health, and their own health predictions, the more there is an information asymmetry with insurers. Adverse selection of policyholders is a risk that health insurers may increasingly run into. The risk is mitigated in group health contracts as they currently dominate in the market, yet the individual market will be exposed.
+The road ahead
+In the Middle East, both healthcare providers and insurers have invested significantly into their digital infrastructure in recent years. The pandemic-accelerated consumer interest in digital health is proving those investments right: providers and payers have been better prepared for the pandemic than they would have been some years ago.
+The next few years will form a transitional period in which digital health capabilities need to be further built while maintaining traditional brick-and-mortar formats – a financially challenging stretch. As digital health gains further momentum, a stream of growth opportunities for GCC health insurers will open up.
+ 
+
+
+
+
+
+
+
+
+
+
+
+Author
+
+
+
+
+Sven-Olaf Vathje, PhD
+Practice Head – Health & Life Sciences (MEA)
+
+
+
+
+
+Industry
+
+            Health And Life Sciences
+        
+
+
+
+
+
+
+
+
+
+
+ Oliver Wyman Ideas App Oliver Wyman Ideas offers our most recent insights on issues of importance to senior business leaders.    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Insights
+						
+We Will Get Care Everywhere, All The Time
+
+
+							We will get care everywhere, all the time as the center of care delivery shifts from physician offices to new digital and home hubs.
+						
+
+
+Read more
+
+
+
+
+
+
+
+
+
+							Insights
+						
+Three Steps To Get Closer To AI-Driven Healthcare
+
+
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+							Insights
+						
+Health on Demand 
+
+
+							A US-focused report on the role of digital health in the workplace.
+						
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+OUR EXPERTISE 
+
+
+
+
+Industries 
+
+Aviation, Aerospace & Defense
+Travel & Leisure
+Rail and Public Transit
+Automotive
+Business Services
+Communications, Media, And Technology
+Education
+Energy
+Financial Services
+Health And Life Sciences
+Industrial Products
+Public Sector And Policy
+Retail And Consumer Goods
+Transportation
+Velocity Podcast
+
+
+
+capabilities 
+
+Actuarial
+Climate And Sustainability
+Corporate Finance And Restructuring
+Digital
+Lippincott: Brand and Innovation
+Oliver Wyman Labs
+Operations
+Organizational Effectiveness
+Payments
+Pricing, Sales, And Marketing
+Risk Management
+Strategy
+Oliver Wyman Engineers
+
+
+
+
+
+
+
+
+OUR EXPERTISE 
+
+
+
+
+Industries 
+
+
+
+
+Aviation, Aerospace & Defense
+Travel & Leisure
+Rail and Public Transit
+Automotive
+Business Services
+Communications, Media, And Technology
+Education
+Energy
+Financial Services
+Health And Life Sciences
+Industrial Products
+Public Sector And Policy
+Retail And Consumer Goods
+Transportation
+Velocity Podcast
+
+
+
+
+
+capabilities 
+
+
+
+
+Actuarial
+Climate And Sustainability
+Corporate Finance And Restructuring
+Digital
+Lippincott: Brand and Innovation
+Oliver Wyman Labs
+Operations
+Organizational Effectiveness
+Payments
+Pricing, Sales, And Marketing
+Risk Management
+Strategy
+Oliver Wyman Engineers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are one of the FORTUNE 100 best companies in the world to work for
+
+
+
+
+
+Students And Recent Graduates Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marsh McLennan is the leader in risk, strategy and people, helping clients navigate a dynamic environment through four global businesses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms of Use
+
+
+Privacy Notice
+
+
+Cookie Notice
+
+
+
+
+
+
+
+© 2021 Oliver Wyman INC. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+Download Oliver Wyman Ideas App Our latest insights on your mobile device
+
+
+ 
+ 
+
+
+
+
+ © 2021 Oliver Wyman 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

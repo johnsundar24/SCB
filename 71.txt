@@ -1,0 +1,658 @@
+
+
+
+
+
+
+
+
+
+
+Time for a U.S.—EU digital alliance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+  
+
+
+
+
+Search Brookings
+
+
+
+ Search
+
+
+About UsPress RoomExpertsEventsBrookings PressWashU@BrookingsCareersNewslettersSupport Brookings
+
+
+Cart
+0
+
+
+Search  Guidance for the Brookings community and the public on our response to the coronavirus (COVID-19) »
+Learn more from Brookings scholars about the global response to coronavirus (COVID-19) »
+
+
+
+
+
+ The Brookings Institution
+ 
+
+ The Brookings Institution
+ 
+
+
+Time for a U.S.—EU digital alliance
+FacebookTwitterLinkedInPrintSMSEmailMoreRedditAI
+Cities & Regions
+Global Dev
+Intl Affairs
+U.S. Economy
+U.S. Politics & Govt
+More
+ 
+ Search
+
+
+
+ Menu
+
+
+0
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Report
+Time for a U.S.—EU digital alliance
+
+Tom Wheeler
+Thursday, January 21, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+FacebookTwitterLinkedInPrintSMSEmailMoreReddit
+For media inquiries, contact:
+
+Governance Studies Main Line
+202.797.6090
+
+
+
+
+
+
+
+
+
+Editor's Note:
+This paper is based on a presentation prepared for the Transatlantic Leadership Network December 7, 2020 seminar on how the U.S.-EU relationship can be made more effective.
+
+
+The global open internet is splintering as nation-states such as China and Russia wall themselves from the free flow of information while repurposing digital technology to their economic and ideological benefit. Liberal democracies are facing the threat that the future of the most powerful network in the history of the planet could be defined by others. 	
+
+
+
+
+
+
+Tom Wheeler
+
+					Visiting Fellow - Governance Studies, Center for Technology Innovation 
+
+ Twitter
+@tewheels
+
+
+
+
+
+The European Union—which has led in the attempt to establish oversight of the dominant digital companies—is also leading in the effort to build a democratic alliance. Lost in the attention paid to the EU’s proposed sweeping rules for the regulation of online platforms, is its proposal for a “specific dialog with the US on the responsibilities of online platforms and Big Tech” as part of a post-inauguration summit with President Biden.
+Such strategic discussions should be the beginning of an alliance of liberal democracies to protect the open and free values, as well as the economic strengths, of those societies. The North Atlantic Treaty Organization (NATO) was created as a military alliance in the sharply divided world of the 20th century. Now is the time for a Western digital alliance for the interconnected yet increasingly splintered 21st century.
+“Now is the time for a Western digital alliance for the interconnected yet increasingly splintered 21st century.”
+Such an alliance could embrace two broad categories: protecting supply chains and protecting consumers and competition. Robert Knake, writing for the Council on Foreign Relations, has proposed a Western “digital free trade zone” to insulate democratic nations from autocratic regime control over hardware and software. This paper addresses the creation of an alliance of Western democracies—beginning with the U.S. and EU—to focus on the power of autocratic corporate empires and their effects on competition and consumers.
+A DIGITAL ALLIANCE
+In 1865, the French government assembled representatives of other European nations with state-owned telegraph networks. The attendees formed the International Telegraph Union (ITU) and agreed to a common set of standards for their activities. As the first supranational organization, it was a step toward today’s European Union.
+A century and a half later, common technical standards are again at the heart of a new network. Beyond those technical standards, however, is a void in the establishment of behavioral standards for the network of the 21st century. It is no longer sufficient to allow dominant digital companies to act as pseudo-governments and make their own set of self-serving behavioral rules.
+The telegraph transmitted data at about three bits per second, approximately 100 times faster than a mounted courier.[1] That speed ate away at the time buffer that allowed borders on the map to have relevance. Today, networks operating at gigabit speeds eliminate such distinctions altogether—including the continental distinction between the United States and Europe. This seamless and speedy interconnection has created shared digital realities for the U.S. and EU that require shared policy solutions while respecting national sovereignty.
+These common digital policy issues organize themselves into three broad classifications: the dissemination of misinformation and hate, the distortion of markets to become non-competitive, and the exploitation of consumers. While there is little international debate surrounding the identification of such problems, the interconnections that make these problems possible have taxed the ability of individual nation-states to respond.
+“The challenges of internet capitalism are common to both sides of the Atlantic.”
+The challenges of internet capitalism are common to both sides of the Atlantic. The capital asset of digital information is inexhaustible, non-rivalrous and applied at near-zero marginal costs (“build once, sell everywhere”) to feed expansion through network effects.[2] These characteristics have created a new 21st century economic reality as surely as 19th century industrial capitalism replaced agricultural mercantilism.
+In the 19th and early 20th centuries the new industrial economy necessitated the creation of regulatory oversight. Such regulation not only protected consumers and competition, but also had the effect of protecting industrial capitalism itself. We stand at a similar juncture with internet capitalism: to protect the public interest while continuing the best aspects of an innovative digital economy.
+Yet governments have struggled to keep pace with the effects of the new digital economic model and the speed at which it operates. One consequence of the “move fast and break things” mantra is that the dominant digital companies have been able to define market behaviors before policymakers can catch up. Too often these behaviors are oblivious to their anticompetitive consequences and the public interest.
+The real time nature of an interconnected globe cries out for nations with common values to develop shared oversight concepts for the marketplace results of those interconnections. The network effects that allow companies to scale rapidly would also allow for the rapid dissemination of these common policies.
+In her September State of the Union address, European Commission President Ursula von der Leyen was quite direct: “Europe must now lead the way on digital—or it will have to follow the way of others who are setting these standards for us.” At the same time, she proactively asserted, “we are ready to build a new transatlantic agenda,” including in digital technology issues.
+To date, the European Union has been the world leader in establishing such behavioral expectations. Until the recent antitrust actions, the United States has been largely absent from the field. The failure of the U.S. to develop domestic regulatory policies has cost it a leadership role in the interconnected world. “A common refrain among European officials,” Politico reports, “is that they’re being forced to take actions because the U.S. hasn’t.”
+The result is an anomaly: U.S. companies have a global leadership position in digital technology, products and services—but the United States has shown little policy leadership. It would American companies and policymakers to recognize that in the interconnected world, failure in the latter undermines continued success in the former. Similarly, it would all liberal democracies to eschew the temptation to seek a regulation-imposed competitive advantage that itself accelerates splintering.
+In early December, the EU proposed sweeping new oversight of the digital economy. The Digital Services Act deals with online content issues. The Digital Markets Act establishes behavioral expectations for the digital platforms judged to be market gatekeepers.
+The EU’s new proposals continue efforts to find the right regulatory oversight of the digital giants. The speed with which digital technology imposes change has, however, outpaced the traditional oversight tools of government. As EU Executive Vice President Margrethe Vestager explained, “It is painful that in digital markets the harm that can be done in that marketplace can happen very fast but the recovery of that marketplace can be very, very difficult.”
+The challenges of regulation in the digital era were highlighted by a report of the European Court of Auditors. That review concluded the EU’s digital oversight “has not yet fully addressed the complex new enforcement challenges in digital markets, the ever-increasing amount of data to be analysed or the limitations of existing enforcement tools.”
+This situation is not unique to the EU. Just like the network that stimulated concerns in the first place, the issues created by such connections do not respect national boundaries. Oversight of the digital marketplace would be greatly enhanced by the cooperative efforts of a digital alliance. Consideration of such an alliance can follow the three issues raised by the EU auditors: the complexities of enforcement; the amount of data to be analyzed; and the limitations of existing enforcement tools.
+COMPLEXITIES OF NEW ENFORCEMENT CHALLENGES
+Concepts and structures created to deal with the analog industrial world are insufficient for the digitally interconnected world in large part because of the nature of the capital assets of each. Business activity in the industrial era was built around hard assets such as coal, iron, and manufactured goods. The digital era is built around the soft assets of digital information. While data assets continue to enjoy industrial-like scope and scale economies, they are different in other ways that create strong tendencies to market failure and necessitate regulatory oversight.
+“The industrial era was built around hard assets such as coal, iron, and manufactured goods. The digital era is built around the soft assets of digital information.”
+As compared to industrial assets, information assets are incrementally inexpensive, inexhaustible, iterative and non-rivalrous. Computers perform calculations and networks distribute the results at a very low marginal cost. Whereas a ton of coal is exhausted by usage, a file of data can be used over and over. The use of that data, in turn, creates new data that produces new products. Finally, data is non-rivalrous in that usage by one party does not preclude usage by another.
+Added to these basic differences in the root assets of the digital economy are three additional factors: network effects, low marginal cost distribution and “free” end user goods and services. Network effects are the epicenter of internet economics, as the value of a product or service increases as it connects with more people, which in turn creates a propensity to “tip” to monopoly. Thanks to the internet, this phenomenon is reinforced as the marginal cost of delivering that product or service to an additional user approaches zero. Together, these forces permit the product or service to be provided at no cost to the user, thus triggering further network effects that erect barriers to new entrants and allow monopoly pricing for those seeking access to users of the “free” service.
+The economic model of the industrial era was constrained by assets that ultimately confronted diminishing marginal returns as costs rose and markets became saturated. The economic model of the internet era knows no such constraints, but rather is driven by an endless supply of data feeding boundless demand. At the heart of machine learning and artificial intelligence, for instance, is an unquenchable demand for more data. That demand is met by digital perpetual motion, where data use begets data products that beget more data use and more products.
+Inexpensive, inexhaustible, iterative and non-rivalrous assets that take advantage of low-margin, network effect-driven digital capabilities mean that there is even greater mass production in the information economy than there was in the industrial economy. This produces the next challenge: how the self-perpetuating, never-ending process in which data produces new products, which produce new data, speeds the pace of change far beyond anything experienced in the industrial economy and beyond the capacity of industrial era structures.
+EVER-INCREASING AMOUNT OF DATA TO BE ANALYZED 
+The operational model of the new economy is the use of big data to drive conclusions. Data-driven analytics are used by Hollywood to predict the public’s reaction to actors in various roles. European rugby teams and American baseball teams have pioneered data-driven decision making in sports. Machine learning and artificial intelligence can have similar roles in regulatory oversight.
+There exists, however, at least two problems in such data-driven regulatory analysis. The first is the regulators’ inherent unfamiliarity with building a data analytics engine and the opposition of the industry to provide access for meaningful input. The second problem is the need for consensus on the data analytics process and the “data elephant problem”. As the old story goes, multiple blindfolded people touching the same elephant come away with different conclusions about what they encountered depending on what part they touched. A cooperative effort to overcome these problems would standardize the information sought as well as its analysis.
+A transatlantic digital alliance can begin to be built around common analytical systems to assess the digital marketplace. There is no shortage of such inputs, both governmental and academic.[3] The areas of inquiry for such a convening are already known: misinformation, disinformation and malinformation; market gatekeepers; and consumer welfare issues such as privacy and the security of networks and their data.
+These topics are continually discussed at multiple independent conclaves, as well as through informal exchanges such as the International Competition Network. There is, however, an absence of a more formally organized opportunity for policymakers on both sides of the Atlantic to seek consensus on the interpretation of the data and the identification of the risks inherent in the digital economy.
+LIMITATIONS OF EXISTING ENFORCEMENT TOOLS
+While common data analysis efforts can identify marketplace risks and suggest regulatory mitigation, the tools available for such mitigation are too often insufficient.
+The digital challenges are new, so the response to them must also be new and innovative. The challenge for the digital era is the development of a regulatory environment that is flexible enough not to inhibit innovation while enforceable enough to protect competition and consumers.
+“The challenge for the digital era is the development of a regulatory environment that is flexible enough not to inhibit innovation while enforceable enough to protect competition and consumers.”
+The rigidity of industrial era-style regulation has gifted the dominant digital companies with a three-pronged attack against any regulatory oversight. One argument asserts that rigid regulation stifles the genius of “permissionless innovation.” It is a legitimate but over-hyped concern that assumes the continued imposition of rigid industrial era “utility-like” regulatory micromanagement. Yet, when a more flexible circumstances-based regulation is suggested, the argument shifts to the adverse consequences of “regulatory uncertainty.” Finally, it becomes beneficial for the giant companies to argue that smaller companies cannot withstand the burdens of regulation.
+The practical effect of all these excuses, of course, is simply the opposition to all forms of regulation.[4] Rather than permitting the discussion of behavior-based oversight to be sidetracked by any of these arguments, policymakers should advocate a new approach.
+When, beginning in the late 19th century, it became necessary to regulate industrial activities, governments simply copied the management model of those they oversaw. The rules-based bureaucratic supervision of factory production was simply transposed to government. The relatively stable technology of the time created relatively stable markets that allowed for such micromanagement at both at the corporate and government level. Such stability no longer exists.
+The management of digital enterprises has taken a 180 degree turn from the industrial model to embrace agile management techniques capable of keeping pace with technology and marketplace developments. Included in such agile management is the use of standard-setting processes that normalize technology while also creating a process to assure its continued flexibility in response to new developments. 
+
+
+Related Content
+
+
+
+
+
+
+ 
+
+
+
+TechTank
+The consequences of social media’s giant experiment
+
+Tom Wheeler
+Wednesday, January 13, 2021
+
+
+
+
+
+
+
+ 
+
+
+
+Policy 2020
+Placing a visible hand on the digital revolution
+
+Tom Wheeler
+Monday, January 13, 2020
+
+
+
+
+
+
+
+ 
+
+
+
+TechTank
+Should big technology companies break up or break open?
+
+Tom Wheeler
+Thursday, April 11, 2019
+
+
+
+
+
+
+Conspicuously absent in the industry standard-setting activities, however, has been the creation and enforcement of public interest behavioral standards. Industry developed so-called “privacy codes,” for instance, are less about protecting the user’s privacy and more about how the company will violate that privacy. Consideration of the public interest is all too often absent from such standard setting and must be introduced to the process.
+The challenge of 21st century regulatory oversight—on both sides of the Atlantic—is to protect the public interest while embracing techniques that mirror the agile management of the digital companies themselves. Such a new approach necessitates the development of a new regulatory paradigm that combines the proven effectiveness of industry’s standard setting process with expectations, oversight and enforcement established by government.
+This could lend itself to the development of common digital alliance policies, but with sovereign enforcement. The behavioral standards process would begin with the identification of specified practices (e.g., shared access to data assets, privacy protections, etc.) and the direction to develop an industry standard governing those processes.[5] The dominant digital companies would participate, along with representatives of the EU, U.S. and public representatives to collectively reach an agreement. To assure the process is not captured by one interest or another, the adoption of such outcomes would devolve upon the sovereign nations participating in the digital alliance.[6]
+TIME TO START
+Fortunately, we may have a running start on such an undertaking. The internet itself has enabled a 21st century iteration of a Republic of Letters, the Enlightenment’s community of scholars that communicated via correspondence. Whether by email, web-based publications, or more lately Zoom, government officials, academics and others are using the medium that created the new digital challenges for the exchange of insights.
+The pressing issue, however, is to move beyond discussion. Kickstarted by the suggested summit, the exhortation of President von der Leyen, the introduction of the EU’s digital initiatives, and a new American administration that believes in multilateralism, the European Union and the United States have an opportunity to begin to forge a digital alliance. 
+
+Related Books
+
+
+
+
+
+
+ 
+
+
+
+From Gutenberg to Google
+
+
+						By Tom Wheeler 
+2019
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Turning Point
+
+
+						By Darrell M. West and John R. Allen 
+2020
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Terms of Disservice
+
+
+						By Dipayan Ghosh 
+2020
+
+
+
+
+
+
+Typically, nations enter such cooperative relationships via treaty. The sclerotic process of treaty negotiation, however, has been ambushed by the speed with which digital technology evolves and digital companies impose their will on the marketplace. A cooperative effort to outline the fundamentals of behavioral standards for dominant digital platforms could be the beginning of a broader alliance to create a collective response to the public interest and national security challenges of the digital economy.[7]
+NEW WORLDS DEMAND NEW RESPONSES
+Writing to a friend in 1837, Victor Hugo described the experience of his first train ride: “The flowers by the side of the road are no longer flowers but flecks, or rather streaks, of red or white; there are no longer any points, everything becomes a streak.”[8] Hugo was riding on the world’s first high-speed network, racing at a breathtaking 15 miles per hour.
+Today, Western democracies are confronting a new high-speed network proceeding at its own breakneck pace to eliminate reference points and render everything an indistinguishable streak. The railroad network necessitated the creation of new policies for the oversight of both its operations and the effects of those activities. Like the telegraph that followed only a few years later, it started to erase distance as a governing factor in daily existence.
+In the 19th century, the nations of Europe organized to collectively deal with their new connections. The instantaneous of the 21st century demands a similar collective response, this time including all those nations that have traditionally stood together to protect liberal democracy and democratic capitalism.
+ 
+
+The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical recommendations for policymakers and the public. The conclusions and recommendations of any Brookings publication are solely those of its author(s), and do not reflect the views of the Institution, its management, or its other scholars.
+
+
+
+Report Produced by Center for Technology Innovation
+
+
+
+
+
+
+Footnotes
+
+See Tom Wheeler, From Gutenberg to Google: The History of Our Future, Brookings Press, 2019, p. 245 n 13
+To enjoy such advantages, of course, necessitates initial capital investment not unlike the industrial era. Once such investment is made, however, the behavior of digital assets differentiate themselves from industrial assets.
+See, among others, George J. Stigler Center for the Study of the Economy and the State, The University of Chicago Booth School of Business Committee for the Study of Digital Platforms, Market Structure and Antitrust Subcommittee Report 21 (Jul. 1, 2019); United Kingdom Competition and Markets Authority, Online Platforms and Digital Advertising, (2020); Jason Furman, Unlocking Digital Competition, Report of the Digital Competition Expert Panel, (Mar. 2019); INVESTIGATION OF COMPETITION IN DIGITAL MARKETS, Report of the Subcommittee on Antitrust, Commercial and Administrative Law of the Committee on the Judiciary, United States House of Representatives (October, 2020).  For an account of other domestic and foreign initiatives addressing major platform issues included in a broad and critical review of the major platforms, see Dipayan Ghosh, Terms of Disservice: How Silicon Valley is Destructive by Design, Brookings Institution Press (Jun. 16, 2020)
+Facebook has instituted a major advertising campaign asserting “Facebook supports updated internet regulations.” Inspecting what they support, however, reveals little meaningful oversight.
+For further discussion of a standards-based regulatory approach see https://shorensteincenter.org/new-digital-realities-tom-wheeler-phil-verveer-gene-kimmelman/
+It is understood that while there are deeply shared common values on both sides of the Atlantic, there are also differences such as those created by the First Amendment in the United States and the European Convention on Human Rights.
+While this paper focuses on the European Union and the United States, the ultimate broadening of its concepts to other Western democracies would be worthwhile.
+Wolfgang Schivelbusch, The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century, University of California Press, 1977, p. 55
+
+
+
+
+
+Related Topics
+
+European Union
+Technology & Innovation
+Telecommunications & Internet
+U.S. Politics & Government
+
+
+
+
+
+
+ The Brookings Institution
+
+
+
+
+
+ Facebook
+Find us on Facebook
+
+
+
+
+ Twitter
+Find us on Twitter
+
+
+
+
+ YouTube
+Find us on YouTube
+
+
+
+
+ Podcast
+Listen to our Podcast
+
+
+
+
+ Browse Newsletters
+Browse Newsletters
+
+
+
+
+ RSS
+Subscribe to our RSS
+
+
+
+
+
+Languages
+Español
+中文
+عربي
+
+
+
+
+About Us
+Research Programs
+Find an Expert
+Careers
+Contact
+Terms and Conditions
+Brookings Privacy Policy
+Copyright 2021 The Brookings Institution
+
+
+
+
+ The Brookings Institution
+
+ Close
+
+
+
+
+Trending
+
+
+
+
+				U.S. Economy			
+
+
+
+				Education			
+
+
+
+				International Affairs			
+
+
+
+
+Topics
+
+
+
+
+				AI			
+
+
+
+				Cities & Regions			
+
+
+
+				Global Dev			
+
+
+
+				Intl Affairs			
+
+
+
+				U.S. Economy			
+
+
+
+				U.S. Politics & Govt			
+
+
+
+				More			
+
+
+
+
+
+				About Us			
+
+
+
+				Press Room			
+
+
+
+				Experts			
+
+
+
+				Events			
+
+
+
+				Brookings Press			
+
+
+
+				WashU@Brookings			
+
+
+
+				Careers			
+
+
+
+				Newsletters			
+
+
+
+				Support Brookings			
+
+
+
+Cart
+0
+
+
+
+
+
+Get daily updates from Brookings
+
+
+
+
+
+
+
+    
+Enter Email
+  
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

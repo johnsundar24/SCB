@@ -1,0 +1,671 @@
+
+
+
+
+
+
+
+
+
+
+Why the United States should compete with China on global clean energy finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+  
+
+
+
+
+Search Brookings
+
+
+
+ Search
+
+
+About UsPress RoomExpertsEventsBrookings PressWashU@BrookingsCareersNewslettersSupport Brookings
+
+
+Cart
+0
+
+
+Search  Guidance for the Brookings community and the public on our response to the coronavirus (COVID-19) »
+Learn more from Brookings scholars about the global response to coronavirus (COVID-19) »
+
+
+
+
+
+ The Brookings Institution
+ 
+
+ The Brookings Institution
+ 
+
+
+Why the United States should compete with China on global clean energy finance
+FacebookTwitterLinkedInPrintSMSEmailMoreRedditAI
+Cities & Regions
+Global Dev
+Intl Affairs
+U.S. Economy
+U.S. Politics & Govt
+More
+ 
+ Search
+
+
+
+ Menu
+
+
+0
+
+
+
+
+
+
+
+
+
+Series:
+Reimagining Modern-day Markets and Regulations
+
+
+
+
+ 
+
+
+
+Report
+Why the United States should compete with China on global clean energy finance
+
+Chuyu Liu and Johannes Urpelainen
+Thursday, January 7, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+FacebookTwitterLinkedInPrintSMSEmailMoreReddit
+For media inquiries, contact:
+
+Shannon Meraw
+SMeraw@brookings.edu
+202.797.6414
+
+
+
+
+
+
+
+
+
+Today, China is the behemoth of global energy finance, with its overseas energy investments still largely concentrated on fossil fuels. Much of the demand for Chinese investments in coal, oil, and gas come from emerging countries with growing energy needs. These countries use affordable Chinese loans to meet the energy needs of households, industry, transportation, and commerce. Facing the rapid global expansion of China’s energy finance, the United States should compete with China by offering affordable finance for global clean energy development (instead of fossil fuels). For fiscal year 2020, the United States will spend approximately $2 billion on climate finance to support low-carbon development in developing countries.1 By financing more clean energy projects, the United States would contribute to meeting the goals of the 2015 Paris Agreement on Climate Change and also provide a counterweight to China’s energy investments around the globe.
+
+
+
+
+
+
+
+Chuyu Liu
+
+					Independent researcher - Initiative for Sustainable Energy Policy 
+
+ Twitter
+ChuyuLiu
+
+
+
+
+
+
+
+
+Johannes Urpelainen
+
+					Director - Initiative for Sustainable Energy Policy 
+
+					Professor - Johns Hopkins University School of Advanced International Studies 
+
+ Twitter
+jurpelai
+
+
+
+
+
+Our review of China’s overseas energy finance below shows that the demand for fossil fuels mostly reflects host country demand. To respond to this demand-driven increase of China’s outward fossil-fuel investments, the United States should (i) offer low-interest loans to clean energy projects in emerging countries with growing energy needs and (ii) provide technical and financial assistance to these countries’ governments and regulators to improve their environmental regulatory capacity. The low-interest loans would make clean energy more attractive for host countries and thus reduce host country demand for Chinese fossil-fuel projects, while the technical and financial assistance would increase the cost of fossil fuels relative to clean energy by taking into account negative environmental externalities of non-renewable-energy projects. This dual strategy may also encourage Chinese project developers to invest more in clean energy, as host country demand for fossil fuels would decrease, and the reputational risks of fossil-fuel investment to banks and developers would grow.
+China’s dominant role in global energy finance
+China has become one of the largest financiers of energy projects globally. China’s two major policy banks, Chinese Development Bank (CDB) and Chinese Export-Import Bank (EXIM),2 financed a total of $196.7 billion in overseas energy sectors between 2007 and 2016.3 To put it in perspective, energy loans issued by CDB and EXIM amounted to as much as all the energy finance of major Western-backed multi-lateral development banks combined. Moreover, although China was the fourth largest outbound source in energy-sector foreign direct investment (FDI) between 2010 and 2016, it had become the leading outbound source in terms of FDI in electricity generation.4
+Chinese energy finance remains focused on fossil fuels. Of all global energy projects financed by the CDB and EXIM, fossil fuel projects received around 75 percent of the total credits.5 For instance, between 2000 and 2018, in terms of overseas financing and foreign direct investments by Chinese firms and policy banks, 45 percent of the total generation capacity in the power sector was coal-fired. In contrast, between 2000 and 2018, renewable energy projects only accounted for 2.6 percent of official development finance provided by China’s two main policy banks, CDB and EXIM.6
+The Belt and Road Initiative (BRI) is another major contributor to China’s fossil fuel dominance. BRI is designed to build infrastructure and coordinate policymaking across Eurasia and eastern Africa. This project was launched by Xi Jinping in 2013 and is widely viewed as his signature for China’s foreign policy. In 56 BRI countries, between 2014 and 2017, most Chinese energy financing and investments were in carbon-intensive sectors. More specifically, for energy-sector syndicated loans issued by Chinese policy banks and the four largest state-owned commercial banks, 72 percent of these loans were in fossil fuels. Of all energy loans issued entirely by CDB and EXIM to BRI countries, over 60 percent flowed into fossil fuels. Furthermore, the Silk Road Fund, which is a state-owned financial institution designated to sponsor BRI projects, made 93 percent of its energy-sector investments in fossil fuels.7
+
+
+Related Content
+
+
+
+
+
+
+ 
+
+
+
+Up Front
+The Trump administration’s major environmental deregulations
+
+Cayli Baker
+Tuesday, December 15, 2020
+
+
+
+
+
+
+
+  Play Video
+
+
+
+
+
+Up Front
+Regulating autonomous vehicles and ridesharing
+
+Sanjay Patnaik and Genevieve Shiroma
+Thursday, December 17, 2020
+
+
+
+
+
+Therefore, it is not surprising that China’s overseas energy finance has a major impact on global climate change. According to Boston University’s Global Development Policy Center, “fossil fuel power plants with Chinese overseas investment and finance are currently leading to approximately 314 million tons (Mt) of CO2 emissions per year, which is about 3.5 percent of the annual CO2 emission from the global power sector outside of China.”8 China’s heavy investments in carbon-intensive industries will further undermine efforts to promote environmental sustainability in these BRI countries. According to Tsinghua University, “business as usual” development in BRI countries will put their 2050 emissions two times above the level needed to limit climate change to 2℃, even if the rest of the world follows a 2℃ pathway.9
+Why China finances fossil fuels
+The primary driver of Chinese fossil fuel finance in the electricity sector is host country demand. As we have discussed, official development finance such as large-scale loans issued by Chinese policy banks, plays a crucial role in financing coal-fired power plants abroad. Export credit constitutes the majority of China’s official development finance.10 Here, export credit refers to “various forms of financing to facilitate and expand exports, including direct loans to foreign buyers, insurance and loan guarantees, working capital financing, and finance for large-scale infrastructure and industrial projects.”11 Host countries accept export credits provided by China to import Chinese power equipment and engineering services to construct and operate their power plants.
+China’s state-backed policy banks rather than private sector players act as main suppliers of China’s export credits. The two policy banks aim to facilitate China’s exports by providing large-scale, long-term credits to the recipient countries to import power equipment and engineering, procurement, and construction (EPC) services from China. As a result, China’s financing of overseas coal power plants is mainly accounted for by the demand or import of the recipient countries. As indicated by a CDB manager, the reason why Chinese official development finance is overwhelmingly in fossil fuels projects is because host country governments do not prioritize renewable energy.12
+The China-Pakistan Economic Corridor (CPEC) demonstrates how the demand of recipient countries is a key driver of China’s overseas fossil-fuel financing. Erica Downs shows that the Pakistani government proposed a number of coal-fired power projects and actively sought China’s financial assistance to construct these plants.13 Prior to CPEC’s launch in April 2015, Pakistan’s energy policy makers had attempted to attract international capital to invest in coal power plants to exploit the country’s abundant coal reserves in the Thar Desert.14 Then-Pakistani Prime Minister, Nawaz Sharif, proposed the development of at least 5,000 MW of new coal power plants and an investment of $20 billion to generate 10,000 MW of electricity in the next five years.15 In July 2013, during Sharif’s visit in China, he lobbied Chinese financiers including CDB and CHEXIM to sponsor the construction of coal power plants in Pakistan.16 In response, the Chinese policy banks subsequently financed a number of coal-fired power plants associated with the CPEC.
+The state of affairs of Chinese overseas clean energy investment 
+Although China’s energy investments abroad remain concentrated in fossil fuels, Chinese project developers welcome the opportunity to invest in low-carbon energy infrastructure when commercial opportunities are available. According to China’s Global Power Database, in terms of power generation capacity, renewables with Chinese overseas investment and financing have increased over time over the past decade.17 In particular, FDI projects in the form of greenfield investment and merger & acquisitions (M&A) accounted for a majority of overseas low-carbon power projects invested by Chinese actors.18
+One key driver underlying China’s recent global investment in clean energy is the changing domestic and international renewable energy market.19 The rise of trade barriers in North America and Europe after the Great Recession has pushed more Chinese solar power manufacturers to seek commercial opportunities in low-income countries.20 Facing internal pressures like domestic market contraction, many Chinese wind turbine manufacturers view overseas investments in developing countries as a way to achieve their value chain upgrade.21 In particular, many manufacturers seek to “become project developers rather than merely operating as exporters.”22 Support from the Chinese government also drives the country’s overseas renewable investments. Various levels of Chinese governments have actively promoted the international expansion of Chinese wind and solar industries.23 As a part of the country’s industrial policy, the clean energy sector is listed as a type of “strategic emerging industries.”24 The government encourages firms to invest in solar and wind power overseas to mitigate the excess capacity and acquire more advanced technologies.
+Chinese developers have engaged in renewable energy projects across a number of developing countries. For instance, in Latin America, Chinese investors have financed wind-powered projects with a total generation capacity of 4080 MW.25 For overseas solar power plants, Chinese investors are sponsoring and planning to finance a set of projects in African countries such as Côte d’Ivoire, Kenya, Ghana, and Zimbabwe.26 Even in Pakistan, which is a country with a large number of Chinese-financed, coal-fired power plants, Chinese developers have financed, constructed, and operated solar energy projects and wind farms.27
+In addition to providing a more sustainable energy infrastructure to many developing countries, Chinese-financed, low-carbon power plants may also facilitate international renewable energy technology transfer. For example, recent research demonstrates that China’s increasing engagements in Ethiopian wind energy projects had positive impacts on transfers of related knowledge and expertise.28
+However, despite the rising trend of Chinese overseas renewable energy investments, renewables still lag far behind fossil fuels in terms of their relative share of power-generation capacity with the participation of Chinese companies and financiers. Between 2000 and 2018, non-hydroelectric clean energy “only accounted for 11 percent of the total capacity.”29
+What the United States can do to green China’s energy finance
+As long as countries with growing energy demand continue to invest in coal, gas, and oil, Chinese project developers and financiers will have strong incentives to meet the demand to mitigate China’s industrial oversupply. Rather than simply leaving the playing field to China as a financier and investor of overseas fossil fuel projects, the United States can employ a dual strategy to push China towards greater clean energy finance. Emerging countries are highly sensitive to the cost of energy, and the U.S. International Development Finance Corporation (DFC) could offer affordable loans to finance clean energy projects. Such loans could displace fossil fuels and contribute to broader climate change mitigation. The DFC has considerable experience with infrastructure finance in emerging countries and can lend up to $60 billion under current rules.30 The United States should use the DFC to offer low-interest loans to clean energy projects that reduce carbon dioxide emissions and help emerging countries avoid carbon-intensive development paths.
+Although U.S. clean energy finance is itself not enough to challenge fossil fuels, it could help strategically important countries develop clean energy markets. From Kenya to India to Vietnam, we have seen that renewable energy costs fall rapidly as project developers compete on price and learn by doing. For instance, in terms of Vietnam’s levelized cost of electricity (LCOE), there was a 75 percent decrease in the cost of solar over the past five years. During the same period, wind costs decreased by 30 percent in Vietnam.31 These cost reductions allow emerging countries to meet their energy needs at a low cost while improving energy security.
+Thanks to these learning effects and economies of scale, the United States could push energy markets in a cleaner direction. As clean energy costs fall, governments no longer have strong incentives to prioritize fossil fuels. Even though the United States cannot finance all the energy demand in emerging countries, supporting clean energy would reduce host-country demand for fossil fuels. As a result, U.S. clean energy finance could contribute to greening Chinese overseas credit as well. As emerging countries expand their clean energy markets they will begin to seek loans for these projects, which creates new opportunities for investment. For instance, between 2007 and 2015, in Africa, over 60 percent of incremental power capacity generated by clean energy technologies came through projects with the involvement of multi-lateral development banks.32
+The United States can also support emerging countries in their efforts to regulate energy projects. In our research at the Initiative for Sustainable Energy Policy, we found that few emerging countries have the institutional capacity to monitor and enforce environmental best practices for energy projects. For example, in Indonesia, environmental regulators at both the central and local levels face a severe understaffing problem, which significantly hinders their monitoring capacities.33 As a result, many local energy projects begin operating even before required environmental impact assessments have been completed. That means negative externalities such as greenhouse gas emissions cannot be effectively mitigated when developing countries lack a strong environmental regulatory capacity. If the United States can help these countries enhance their capacity, clean energy may gain an advantage over fossil fuels by taking into account the financial costs of such negative environmental externalities. What is more, the Chinese government will risk ruining its reputation as a responsible major power and face pressure to impose stricter standards on Chinese firms’ overseas projects. Thus, enhancing capacity in emerging countries will encourage China to subject its banks and project developers to greater scrutiny. The top Chinese leadership’s recent pledge to reach “carbon neutrality” by 2060 indicates the country’s sensitivity to its reputation in global environmental issues.34
+To enhance regulatory capacity in emerging countries, the U.S. Agency for International Development (USAID) should expand technical cooperation with countries that plan large energy investments in the coming 5-10 years. USAID programs that provide host country regulators with technical knowledge and financial resources would put pressure on Chinese and non-Chinese project developers alike to minimize their adverse environmental and social impacts. To make such programs attractive to emerging countries, the United States should explicitly offer additional clean energy finance to ensure that increased environmental and social oversight does not leave the host country without the energy that it needs for economic growth. For example, USAID programs on capacity enhancement could include a plan for low-carbon energy development, with the promise of affordable finance for it.
+This dual strategy of low-interest clean energy loans and capacity support would trigger a virtuous cycle. With more affordable financing provided by the United States, demand for clean energy from host countries would increase. Then, as we have illustrated, clean energy costs would decrease due to economies of scale and learning by doing. The reduced costs of clean energy in return reinforce the host countries’ demand for renewable energy and create a more favorable space for China’s outward clean energy investments. Furthermore, as global demand for fossil-fuel finance would decrease, Chinese banks and developers would re-orient their efforts toward clean energy projects.
+By leveraging its financial and technological resources, the United States could move global energy finance in a greener direction while helping emerging countries meet their energy needs. This approach will also facilitate the development of renewable energy in emerging economies without further escalating the conflict with China. In the end, this strategy allows us to cope with one of the most pressing issues of our time in a more constructive way.
+The authors did not receive financial support from any firm or person for this article or from any firm or person with a financial or political interest in this article. They are currently not an officer, director, or board member of any organization with an interest in this article.
+References
+Brandt, Loren, and Luhang Wang. China’s Development of Wind and Solar Power. In Brandt, Loren, and Thomas G. Rawski, eds. Policy, Regulation and Innovation in China’s Electricity and Telecom Industries. Cambridge University Press, 2019.
+Chen, Geoffrey C., and Charles Lees. “Growing China’s renewables sector: a developmental state approach.” New Political Economy 21, no. 6 (2016): 574-586.
+Chen, Muyang. “Beyond Donation: China’s Policy Banks and the Reshaping of Development Finance.” Studies in Comparative International Development (2020): 1-24.
+Downs, Erica. “China-Pakistan Economic Corridor Power Projects: Insights into Environmental and Debt Sustainability.” New York: Center on Global Energy Policy, Columbia University (2019).
+Gallagher, Kevin P., Rohini Kamal, Junda Jin, Yanning Chen, and Xinyue Ma. “Energizing development finance? The benefits and risks of China’s development finance in the global energy sector.” Energy policy 122 (2018): 313-321.
+Gopal, Sucharita, Joshua Pitts, Zhongshu Li, Kevin P. Gallagher, James G. Baldwin, and William N. Kring. “Fueling global energy finance: the emergence of China in global energy investment.” Energies 11, no. 10 (2018): 2804.
+Hale, Thomas, Chuyu Liu, and Johannes Urpelainen. “Belt And Road Decision-Making In China and Recipient Countries: How and To What Extent Does Sustainability Matter?” ISEP, BSG, and ClimateWorks Foundation (2020).
+Hopewell, Kristen. “Power transitions and global trade governance: The impact of a rising China on the export credit regime.” Regulation & Governance (2019).
+Hughes, Llewelyn, and Jonas Meckling. “The politics of renewable energy trade: The US-China solar dispute.” Energy Policy 105 (2017): 256-262.
+Kong, Bo, and Kevin Gallagher. “Globalizing Chinese energy finance: the role of policy banks.” Journal of Contemporary China 26, no. 108 (2017): 834-851.
+Kong, Bo, and Kevin Gallagher. “Chinese Development Finance for Solar and Wind Power Abroad.” Global Development Policy Center (2020).
+Ma, Jun and Zadek Simon. “Decarbonizing the Belt and Road: A green finance roadmap.” Tsinghua University Center for Finance and Development, Vivid Economics and the Climateworks Foundation (2019).
+Ma, Xinyue. “Understanding China’s Global Power.” Global Development Policy Center (2020).
+Meckling, Jonas, and Llewelyn Hughes. “Protecting solar: global supply chains and business power.” New Political Economy 23, no. 1 (2018): 88-104.
+Shen, Wei, and Marcus Power. “Africa and the export of China’s clean energy revolution.” Third World Quarterly 38, no. 3 (2017): 678-697.
+Steffen, Bjarne, and Tobias S. Schmidt. “A quantitative analysis of 10 multilateral development banks’ investment in conventional and renewable power-generation technologies from 2006 to 2015.” Nature Energy 4, no. 1 (2019): 75-82.
+Tan, Xiaomei, Yingzhen Zhao, Clifford Polycarp, and Jianwen Bai. “China’s overseas investments in the wind and solar industries: trends and drivers.” World Resources Institute Working Paper (2013).
+Zhou, Lihuan, Sean Gilbert, Ye Wang, Miquel Muñoz Cabré, and Kevin P. Gallagher. “Moving the green Belt and Road Initiative: From words to actions.” World Resources Institute. 2018.
+
+
+
+
+
+Footnotes
+
+https://www.wri.org/blog/2020/01/2020-budget-shows-progress-climate-finance-us-continues-fall-behind-peers To calculate the total spending, we aggregate the budget for the Global Environment Facility ($140 million), multilateral development banks ($1.5 billion), and other related international organizations and programs ($391 million).
+The two policy banks serve as key suppliers of China’s official development finance (ODF). For a detailed discussion of the role played by CDB, CHEXIM, and ODF in China’s global economic engagement, see Hale, Liu, and Urpelainen (2020).
+Gallagher et al., 2018, p.315.
+Gopal et al., 2018, p.12.
+Kong and Gallagher, 2020, p.3.
+Kong and Gallagher, 2020, pp.2-3. Note that renewables here only include wind and solar and exclude hydropower.
+Zhou et al., 2018.
+Ma, 2020, p.6.
+Ma and Simon, 2019, p.4.
+Kong and Gallagher, 2017; Chen, 2020.
+Hopewell, 2019, p.4.
+Kong and Gallagher, 2020, p.9.
+Downs, 2019.
+Ibid., p.18.
+Ibid., p.14.
+Ibid., p.14.
+Ma, 2020, p.5.
+Ibid., p.6.
+Kong and Gallagher, 2020, p.8.
+Brandt and Wang, 2019, p.381. For the EU-Sino solar dispute, see Meckling and Hughes (2018). For the US-Sino solar dispute, see Hughes and Meckling (2017).
+Shen and Power, 2017, pp.689-690.
+Ibid., p.689.
+Tan et al, 2013.
+Chen and Lees, 2016, p. 581.
+http://www.bu.edu/cgp/
+Ibid.
+Downs, 2019, pp.30-33.
+Chen, 2018.
+Ma, 2020, p.4.
+https://www.dfc.gov/media/press-releases/us-international-development-finance-corporation-begins-operations
+https://www.mckinsey.com/featured-insights/asia-pacific/exploring-an-alternative-pathway-for-vietnams-energy-future
+Steffen and Schmidt, 2019, p.77.
+Hale, Liu, and Urpelainen, 2020, p.79.
+https://www.nytimes.com/2020/09/23/world/asia/china-climate-change.html
+
+
+
+
+
+Related Topics
+
+Climate Change
+Development Financing
+Financial Institutions
+Financial Regulation
+Global Economy
+International Financial Institutions
+
+
+
+
+
+More
+
+
+
+
+
+
+ 
+
+
+
+Op-Ed
+Can multilateral cooperation coexist with great power rivalry?
+
+Kemal Derviş and Sebastian Strauss
+Thursday, April 22, 2021
+
+
+
+
+
+
+
+ 
+
+
+
+Future Development
+How China’s savings could help save the planet
+
+Martin Raiser and Sebastian Eckardt
+Thursday, April 22, 2021
+
+
+
+
+
+
+
+ 
+
+
+
+Climate Change
+US cooperation with India on a just transition away from coal
+
+Joshua W. Busby, Sarang Shidore, Johannes Urpelainen, and Morgan D. Bazilian
+Tuesday, April 20, 2021
+
+
+
+
+
+
+
+
+ The Brookings Institution
+
+
+
+
+
+ Facebook
+Find us on Facebook
+
+
+
+
+ Twitter
+Find us on Twitter
+
+
+
+
+ YouTube
+Find us on YouTube
+
+
+
+
+ Podcast
+Listen to our Podcast
+
+
+
+
+ Browse Newsletters
+Browse Newsletters
+
+
+
+
+ RSS
+Subscribe to our RSS
+
+
+
+
+
+Languages
+Español
+中文
+عربي
+
+
+
+
+About Us
+Research Programs
+Find an Expert
+Careers
+Contact
+Terms and Conditions
+Brookings Privacy Policy
+Copyright 2021 The Brookings Institution
+
+
+
+
+ The Brookings Institution
+
+ Close
+
+
+
+
+Trending
+
+
+
+
+				U.S. Economy			
+
+
+
+				Education			
+
+
+
+				International Affairs			
+
+
+
+
+Topics
+
+
+
+
+				AI			
+
+
+
+				Cities & Regions			
+
+
+
+				Global Dev			
+
+
+
+				Intl Affairs			
+
+
+
+				U.S. Economy			
+
+
+
+				U.S. Politics & Govt			
+
+
+
+				More			
+
+
+
+
+
+				About Us			
+
+
+
+				Press Room			
+
+
+
+				Experts			
+
+
+
+				Events			
+
+
+
+				Brookings Press			
+
+
+
+				WashU@Brookings			
+
+
+
+				Careers			
+
+
+
+				Newsletters			
+
+
+
+				Support Brookings			
+
+
+
+Cart
+0
+
+
+
+
+
+Get daily updates from Brookings
+
+
+
+
+
+
+
+    
+Enter Email
+  
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
