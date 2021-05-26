@@ -1,0 +1,32 @@
+
+Legal troubles may delay CBDCs - OMFIF                                 
+
+
+
+  Subscribe
+
+HomeAboutMembershipMeetingsNewsAnalysisOn DemandContact Menu
+HomeAboutMembershipMeetingsNewsAnalysisOn DemandContactAll news
+MayAprilMarchFebruary
+  Themes
+Asset allocation
+Digital economy
+Global flows
+Gold
+Macroeconomic influences
+Policy and regulation
+Real assets
+Sustainable investmentForthcoming meetingsPast meetings
+  Themes
+Asset allocation
+Digital economy
+Global flows
+Gold
+Macroeconomic influences
+Policy and regulation
+Real assets
+Sustainable investmentLegal troubles may delay CBDCsby  Marcelo Prates  24 February 2021
+Differing central bank mandates create particular problemsInterest surrounding central bank digital currencies grew sharply after Facebook revealed its Diem project, originally named Libra, in 2019. Central banks have since accelerated their CBDC research, but blind spots remain. Despite some notable exceptions — like a recent working paper by the International Monetary Fund — few studies have explored CBDCs from a legal perspective. But, under current law, can central banks issue CBDC?Evidence from different jurisdictions shows that legislative action is likely to be required before most central banks can issue CBDC. The crucial problem is not so much about central banks issuing currency in a digital form, but making that digital currency directly available to individuals and institutions.Legal mandates authorising central banks to issue digital currency are hard to find. But as long as the mandate does not explicitly restrict the form the currency should take, central banks could issue a CBDC without facing legal obstacles.The US constitution gives Congress the authority, later delegated to the Federal Reserve, to ‘coin money [and] regulate the value thereof’. Likewise, the Brazilian constitution grants the central bank the power to ‘issue currency’.At the statutory level, moreover, the law stipulates that US ‘coins and currency (including Federal Reserve notes and circulating notes of Federal Reserve banks and national banks) are legal tender for all debts, public charges, taxes and dues’. The word ‘including’ hints that the list that follows is illustrative, allowing other currency formats to be legal tender.Similarly, Brazilian law only requires two characteristics for a currency to be considered legal tender: it has to be issued by the central bank and denominated in the legally defined unit of account. Nothing is said about the format.As no constitutional or statutory rule determines the form that the sovereign currency should take, both central banks could use their existing mandate to issue a CBDC — or even abolish cash altogether and substitute it with digital currency.The Treaty on the Functioning of the European Union, on the other hand, gives the European Central Bank ‘the exclusive right to authorise the issue of euro banknotes,’ while ‘member states may issue euro coins’. The Treaty also provides that euro banknotes ‘shall be the only such notes to have the status of legal tender within the Union’. The legal references only to banknotes and coins may compromise the introduction of a digital euro.When it comes to distributing a CBDC, however, the legal situation in these jurisdictions is reversed. The US and Brazilian central banks are authorised to establish relations only with a limited set of institutions, notably banks, not with people or corporations. Without a change to these rules, digital dollars and digital reais would have to be distributed to the public through intermediaries, just like cash is made available today through banks.It would be legally easier for the ECB to offer digital euro directly to the public, as ‘the ECB and the national central banks may open accounts for credit institutions, public entities and other market participants’. The current statutory language seems to provide the ECB with enough room to offer a digital euro directly to the public through digital accounts if it so chooses.As the law will determine what type of CBDC can be issued in each jurisdiction, getting the legal model right is a crucial step in introducing one. Reaching a political consensus on this model may take time, though, since CBDCs raise many contentious issues, from changing the business of banking to creating new privacy risks. For all central banks considering issuing a CBDC, the time to tackle the legal troubles and seek legislative reform is now.Marcelo Prates is Lawyer at Banco Central do Brasil and Author of Money in the twenty-first century: From rusty coins to digital currencies. Click here to receive articles in your inboxSubscribe now!LatestCOMMENTARY2021 inflation is legacy of 2008ON DEMANDInnovation and evolution in payments and the role of central banksMEETINGMacroeconomic outlook: South African Reserve Bank’s response to the Covid-19 pandemicTue 25 May 2021VirtualANALYSISChina leads in mobile payments adoptionAboutMembershipCareersContact usSubscribe© 2020 OMFIF Privacy Policy                     
+  Subscribe
+     
+
