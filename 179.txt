@@ -1,0 +1,460 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions about Facial Recognition | Center for Strategic and International Studies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+Sections
+Search
+
+
+
+
+
+
+Center for Strategic & International Studies
+
+
+
+  User menu 
+Subscribe
+Sign In
+
+ 
+
+
+
+  Topics 
+Climate Change
+Cybersecurity and TechnologyCybersecurity
+Data Governance
+Intelligence, Surveillance, and Privacy
+Military Technology
+Space
+Technology and Innovation
+
+Defense and SecurityCounterterrorism and Homeland Security
+Defense Budget
+Defense Industry, Acquisition, and Innovation
+Defense Strategy and Capabilities
+Geopolitics and International Security
+Long-Term Futures
+Missile Defense
+Space
+Weapons of Mass Destruction Proliferation
+
+EconomicsAsian Economics
+Global Economic Governance
+Trade and International Business
+
+Energy and SustainabilityEnergy, Climate Change, and Environmental Impacts
+Energy and Geopolitics
+Energy Innovation
+Energy Markets, Trends, and Outlooks
+
+Global HealthFamily Planning, Maternal and Child Health, and Immunizations
+Multilateral Institutions
+Health and Security
+Infectious Disease
+
+Human RightsCivil Society
+Transitional Justice
+Human Security
+
+International DevelopmentFood and Agriculture
+Governance and Rule of Law
+Humanitarian Assistance
+Human Mobility
+Private Sector Development
+U.S. Development Policy
+
+
+ Regions 
+AfricaNorth Africa
+Sub-Saharan Africa
+
+AmericasCaribbean
+North America
+South America
+
+Arctic
+AsiaAfghanistan
+Australia, New Zealand & Pacific
+China
+India
+Japan
+Korea
+Pakistan
+Southeast Asia
+
+EuropeEuropean Union
+NATO
+Post-Soviet Europe
+Turkey
+
+Middle EastThe Gulf
+Egypt and the Levant
+North Africa
+
+Russia and EurasiaThe South Caucasus
+Central Asia
+Post-Soviet Europe
+Russia
+
+
+ Sections menu 
+Programs
+Experts
+Events
+AnalysisBlogs
+Books
+Commentary
+Congressional Testimony
+Critical Questions
+Interactive Reports
+Journals
+Newsletter
+Reports
+Transcript
+
+Podcasts
+iDeas Lab
+Transcripts
+Web Projects
+
+ Main menu 
+About Us
+Support CSISSecuring Our Future
+
+
+ 
+
+
+ 
+
+    Photo: PHILIPPE LOPEZ/AFP via Getty Images  
+
+
+
+
+
+ Report
+
+ 
+Share
+ LinkedIn
+Facebook
+Twitter
+Email
+Printfriendly.com
+ 
+  
+
+Questions about Facial Recognition	
+February 3, 2021Download the Report
+
+
+ 
+Concern over the misuse of facial recognition technology is one of the latest fears over technological change that have included Frankenfish, mass surveillance, chip implants, and artificial intelligence (AI). As with these earlier examples, there is both confusion and exaggeration over potential risks. This is exacerbated by the lack of adequate privacy protections in the United States and the rapid pace of technological change, which can create a sense of uncertainty about risk. Broader social and political concerns over race and policing also shape the debate on facial recognition.
+We reviewed the most salient of these concerns for accuracy and for their implications for policymaking, and came to several conclusions. Our first conclusion is that to reduce concerns about facial recognition, Congress needs to pass effective privacy legislation to govern digital technologies. Facial recognition requires access to personally identifiable information (PII). The United States already has extensive rules governing law enforcement access to data and collection of evidence. These need to be extended and, in some instances, modified for new technologies such as facial recognition. But rules for facial recognition do not need to wait for national privacy legislation, since guidelines can be based on existing legal authorities.    
+A second conclusion is that improvements in facial recognition technology, especially in how algorithms are developed and trained, will continue to reduce the risks of error and bias. Like all new technologies, continued improvement reduces risk, and concerns based on how facial recognition technology worked even a few years ago are now out of date. To help improve public understanding of facial recognition, we have reviewed the following questions to address some of the leading concerns.
+Is facial recognition racially biased?
+Demographic differences in facial recognition accuracy rates have been well-documented, but the evidence suggests that this problem will disappear as the technology improves.
+The most thorough investigation of the demographic effects of facial recognition was conducted by the National Institute of Standards and Technology (NIST) in 2019. NIST found that a majority of algorithms exhibited significant demographic differences in accuracy rates. However, NIST also came to several encouraging conclusions. The first is that differences between demographic groups were far lower for algorithms that were more accurate overall. This means that as facial recognition systems continue to improve, the effects of bias will be reduced. Even more promising was that some algorithms demonstrated no discernible bias whatsoever, indicating that bias can be eliminated entirely with the right algorithms and development processes.
+One of the most important factors in reducing bias appears to be the selection of training data used to build algorithmic models. If facial recognition algorithms are trained on datasets that contain very few examples of a particular demographic group, the resulting model will be worse at accurately recognizing members of that group. This may be why NIST found that some algorithms developed in China performed better on Asian faces. EU proposals for regulatory frameworks for facial recognition include requirements that training data reflect “all relevant dimensions of gender, ethnicity and other possible grounds of prohibited discrimination.” This is a useful precedent for the United States.
+In addition to better training data, demographic differences can also be reduced by improving the quality of the images being captured. An assessment of 11 commercial facial recognition systems by the Department of Homeland Security (DHS) found that the skin reflectance was a better predictor of accuracy differences than the self-reported race of the subjects. This indicates that higher-quality cameras and better image capture could make a difference in eliminating bias. Like NIST, DHS found that the most accurate algorithms had an almost negligible demographic effect, further supporting the conclusion that improvements in algorithm and hardware quality will reduce bias in these systems.
+Does the use of facial recognition increase the risk of false arrest?
+To date, there have been three reported instances of false arrests that were based in part on facial recognition out of roughly 10 million arrests annually. In these cases, facial recognition was used to analyze footage of a crime and generate a suspect or list of suspects based on a comparison with criminal databases or ID registries. The results of this analysis were then turned over to investigators, who asked witnesses to corroborate the matches. In the cases of Robert Williams, Michael Oliver, and Nijeer Parks, both the facial recognition analysis and subsequent witness corroborations were incorrect and led to their arrests.
+These instances are obviously regrettable, and more should be done to prevent similar errors from occurring in the future. But critics citing these cases often gloss over the role that human operators and witnesses had in confirming the findings of the facial recognition systems and seem to imply that the alternative—identification by humans alone—is a superior and less biased way to achieve the same results. This does not seem to be the case, because there are thousands of false arrests not based on facial recognition.
+U.S. jurisdictions using the technology do not consider a positive match in a facial recognition system as sufficient to justify an arrest. Police only use facial recognition to generate leads on potential suspects. These leads have to be followed up on with additional evidence gathering and corroboration with witnesses before they can be used to justify taking someone into custody. The New York Police Department, for example, stated that in its investigations, “No one has ever been arrested based solely on a positive facial recognition—it is a lead, not probable cause.” Similarly, the Department of Justice declared that “the FBI uses the technology to produce investigative leads, but nothing more.”
+The most valuable lesson to be learned from the three known instances of false arrests is how important better training and procedures are for human investigators to reduce the risk of misidentification from low-quality searches or “automation bias,” which is the propensity for humans to prefer information from automated systems and ignore contradictory information. In the case of Robert Williams, for example, police used an extremely low-quality image to identify potential suspects, and the arrest was made after Mr. Williams was identified in a line-up by a contractor who had only seen the grainy security camera footage of the crime.
+Properly trained analysts following clear guidelines would not use images of such low quality, and properly trained investigators would have known that more corroborating evidence should have been gathered before making an arrest. The Detroit Police Department has since stated after Mr. Williams’ arrest that they have updated their policies for facial recognition use to prevent such mistakes in the future. If police departments institute higher standards around how facial recognition is used, much of the risk associated with misidentification and false arrest can be mitigated. Better policies can allow us to take advantage of the technology’s benefits while reducing errors.
+Is facial recognition accurate enough for law enforcement use?
+The answer to this question depends on what kind of use is envisioned and whether there are clear rules governing that particular use of facial recognition. 
+Facial recognition technology has improved rapidly over the past several years. In ideal conditions, facial recognition systems have extremely high accuracy. As of December 2020, the best face identification algorithm has an error rate of just 0.1 percent. This degree of accuracy requires consistency in the images’ lighting and positioning and ensuring that the facial features of the subjects are clearly visible and not obscured.
+In real-world deployments, accuracy rates can be much lower. NIST’s 2017 Face in Video Evaluation (FIVE) tested algorithms’ performance when applied to video captured in settings like airport boarding gates and sports venues. The test found that when using footage of individuals walking through a sporting venue—a challenging environment where it is difficult to capture clear images of the subjects—the algorithms being tested had accuracies ranging between 36 percent and 87 percent, depending on camera placement.
+The NIST results demonstrate a major issue with facial recognition accuracy—the wide variation between vendors. The top algorithm achieved 87 percent accuracy at the sporting venue, but the median algorithm achieved just 40 percent accuracy, with both algorithms using imagery from the same camera. NIST’s more recent tests have found that some facial recognition providers on the market may have error rates orders of magnitude higher than the leaders.
+While a few leading vendors have developed powerful, highly accurate facial recognition algorithms, the average provider still struggles to achieve similar reliability. This makes it difficult to come to general conclusions—either positive or negative—about the accuracy of facial recognition. Given the differences among systems, policymakers need to consider the circumstances of deployment and the algorithm being used to fully understand risk. 
+Stronger safeguards on facial recognition use are necessary. Legislation can clarify the standards required for different law enforcement use cases, including real-time monitoring, retroactive identification, and recognition based on body cams or images taken using mobile devices. Guidelines on when different sources of images, including arrest photo databases or state or federal identification databases, can be used for criminal investigations are needed. Requirements for human review are also needed to ensure that police do not act based on an apparent facial recognition match without substantial corroboration. Finally, transparency requirements would ensure that defendants are told when facial recognition was used as part of the investigative process and allow them to challenge these techniques in court. These safeguards can ensure that the use of facial recognition does not violate citizens’ rights.
+Are there risks in using facial recognition technology for travel?
+Many countries already deploy facial recognition technologies in airports, train stations, and border crossings. Its use has become the global norm independent of U.S. decisions. Facial recognition systems (both government and private) are increasingly common ways of checking passengers in before flights. These systems streamline the ticketing and boarding process and make it more secure. Facial recognition is also becoming common at land borders and other entry points in many nations, where immigration officials are using it to keep records of people who enter the country. These deployments provide convenience and security, as facial recognition processing allows travelers to make their way through checkpoints much more quickly and allows officials to more effectively monitor for known threats.
+A study by Delta Air Lines at Atlanta Hartsfield Airport found that the majority of its customers would rather use facial recognition technology instead of manual processes at boarding. Seventy-two percent preferred the curb-to-gate facial recognition experience (which significantly cut the time it takes to get from curb to gate) and 93 percent had no issue using facial recognition technology for boarding. Passengers had the option to opt-out and go through the normal screening process, but less than 2 percent of customers chose to opt-out. This system replaced the existing manual inspection of photo IDs, and passenger data is not stored.  
+The risk to privacy in these deployments comes from how data collected in the travel process is stored and used for other purposes. Most people would not support the use of facial recognition technology to prevent those with unpaid traffic tickets or other minor infractions from boarding a plane, but they would support its use to identify known terrorists. And while most support terrorist screenings, they would not support the data collected by these systems being sold to private companies for marketing. As with other facial recognition uses, there is a need for clear and transparent rules on the collection and use of data to ensure that the risks of abuse and misuse are minimized.
+Is facial recognition technology used to surveil protestors?
+Hearing that facial recognition is being used on protesters may conjure images of CCTV scanning marches and creating logs of each person in the crowd for the police to follow up on later. However, this is not what is actually happening in the United States. It is true that facial recognition has already been used by police to run searches on individuals involved in protests. This raises obvious and legitimate concerns about the potential risks to peaceful protesters, but going past the headlines shows that examples of this happening in the United States have actually been more limited in scope than is usually portrayed. Facial recognition has only ever been used by U.S. police to identify individuals suspected of criminal activity, never to passively monitor demonstrators.
+In Baltimore, when facial recognition was used during the 2015 protests following the death of Freddie Gray, police used it to compare some protesters’ social media profile pictures against a list of individuals with outstanding arrest warrants. When it was used by D.C. police in 2020, it was only after an officer had identified an image on Twitter of the man who had pulled him to the ground and punched him during a protest. In 2020 in Miami, facial recognition was also used to identify a protester, but only as part of an investigation into an individual who threw rocks at police officers. In 2021, it was used to identify rioters at the U.S. Capitol who had violently sought to prevent the certification of the 2020 election results. These cases show that the usage of the technology has been limited to investigating criminal activity rather than targeting protesters indiscriminately. There are legitimate concerns about chilling effects rising from these uses, so policymakers should ensure that rules for using facial recognition are carefully defined and consistent with civil rights. 
+There has been some progress in establishing such rules and guidelines to prevent abuses against protesters. The recent Washington State law regulating facial recognition, for example, bans law enforcement from using it to “create a record describing any individual's exercise of rights guaranteed by the First Amendment of the United States Constitution.” The Department of Justice has similarly announced that “federal law enforcement will not use Facial Recognition Technology to unlawfully monitor people for their political views or based solely on a person’s exercise of First Amendment rights.” This is a constraint that could easily be put into place at a national level to prevent any risks of unconstrained surveillance against protesters.
+If the U.S. government uses facial recognition technology, will that place us on a slippery slope to becoming a surveillance state like China?
+The emergence of facial recognition has led to concerns by some that the technology could expand invasive government surveillance. These concerns have been heightened by the growing popularity of conspiracy theories and fears of new technology.  These concerns are unsupported by evidence and ignore existing safeguards on government surveillance, including the extensive legal framework that applies to government action, the United States’ democratic culture, the strength of its institutions and federal structure, and its observance of the rule of law. These remain strong and limit risk.
+Fear of facial recognition is part of the mounting anxiety over technological change, such as the use of AI, and reflects larger societal concerns about policing, race, and democracy. These are major challenges for U.S. society, but they are created by human action, not technology. The discussion of other AI technologies lies outside the scope of this paper, but in previous instances, progress in the development of automation and autonomous technologies (and facial recognition is a form of AI) has led to social and economic improvement as the right rules and “guardrails” have been put in place.
+The determining factor is not whether a country uses facial recognition but whether it has strong institutions and a culture that protect the rule of law and individual rights. For facial recognition, what is needed is better rules governing the use of technology and rules governing law enforcement’s use of digital data now available from new technologies. 
+How will the use of facial recognition by private companies affect privacy?
+The United States has a patchwork of privacy rules with many gaps and few limitations on how companies use the data they collect or buy from others. In this, the treatment of facial recognition data is little different than the data created by other digital technologies. Since location data, search data, purchase history data, social media use, contact data, and credit data are already collected in a largely unregulated fashion and can be correlated with other data or sold to other companies, limiting only facial recognition data does little to improve privacy. Commercial scenarios for facial recognition technology suggest that its value often comes from being linked to data collected by other means.  
+Businesses can take advantage of facial recognition’s capability for remote monitoring to collect highly detailed information about people’s movements and behaviors without individuals’ knowledge and share or sell that data. For example, in-store cameras could track what goods a customer looks at and what is purchased and send targeted ads to the indecisive. Casinos already make extensive use of facial recognition technology to identify and classify customers by risk and preferences, allowing them to prevent the entry of known gambling addicts or troublesome customers while offering preferred customers special perks. 
+A new issue, created in part by the response to Covid and the greater use of computer networking technologies to characterize a subject’s behavior, is the use of software and cameras to monitor employees and students as they work remotely. Commercially available software allows employers and teachers to tell when someone is not paying attention or cheating on an exam and even track web-browsing and monitor keystrokes. This exceptionally intrusive use of technology (which can include facial recognition technology) is not governed by any rules in the United States. Risks to digital privacy in the United States, including facial recognition, can be reduced by passing comprehensive privacy legislation that provides transparency and creating rules on what is being collected and how it is being used.
+How is facial recognition different from facial characterization?
+Facial recognition is a subfield of AI that creates software systems to identify and compare faces in images and video. In practice, facial recognition tools can be thought of as a way to evaluate a claim. Those claims can be anything from “is this person who they say they are?” to “is this person contained within this database?” 
+Facial recognition can be distinguished from face characterization (or analysis), where the purpose is not to compare two images, but to classify a single face according to gender, age, emotion, or some other category. Though facial analysis can sometimes be packaged together with facial recognition tools, it is a distinct technology with its own separate development process, uses, and risks. Face characterization is often conflated with facial recognition in popular reporting, leading to substantial confusion.
+The risks posed by each technology are different and depend heavily on the context of use. Facial recognition systems can range from innocuous software that lets you sign in to your phone using your face to real-time surveillance systems. Similarly, face characterization can be used to anonymously count the number of men versus women who enter a store or to allow cameras in China to send alerts to the police when it identifies someone as a Uighur.
+This shows that risk is actually not created by the technology but by the purpose for which it is used, what data is collected and retained, and whether that data is used for other purposes. This points to the need for context-specific safeguards. Policymakers would be better served by addressing broader issues relating to data collection, retention, and use through general privacy regulation. 
+Moving Ahead
+Facial recognition is the latest technology to become a lightning rod for larger social concerns. It lies at the intersection of powerful and legitimate political concerns over privacy, policing, and AI. The source of concern is not the technology per se but larger trends in society and a technology-driven environment that can seem impervious to control.  
+This kind of alarm is not new. Society’s views of technology have often veered from fearful to optimistic. Steam trains were greeted in the 1830s with reports that the human frame could not withstand speeds over 45 miles an hour. The first cars in the United Kingdom were required to have a person with a red flag walk before them to warn pedestrians and horses. The experiences of the twentieth century raise understandable concerns about the dark side of technology, and these have only been reinforced by the pervasive erosion of privacy online resulting from digital technologies.    
+We continue to emphasize the importance of national privacy legislation as the foundation for protections in the use of facial recognition. Our research has made clear that the use of facial recognition technologies requires clear regulations and laws that appropriately control use and provide for accountability and transparency. This is best done at the federal level, to ensure standard practices and protection in all jurisdictions.   
+Some of these new rules and required best practices are specific to facial recognition, such as defining limitations in how it is used for criminal investigation and arrests. Others should be part of a larger national approach to privacy protection, including rules on the storage, use and transfer of data and measures to provide transparency in what data is being collected, how it is used, and if it is stored or shared. Some facial recognition uses (both private and governmental) could allow for citizens to opt out, as in the use for airport security screening. Other uses related to public safety should not allow for opting out, but this means those uses must be guided by a higher degree of regulation and transparency. These rules should depart from past practice, provide a degree of parity between private sector and governmental use, and apply to both government and private sector facial recognition deployments.   
+Our conclusion is that risk from the use of facial recognition technology is best managed by implementing rules and safeguards appropriate for each case. We must be careful to ensure that any new rules are not based on information that is incorrect or outdated.  Technological change is not going to stop and the use of artificial intelligence in applications like facial recognition will continue to grow. We do not want to continue the precedent of allowing unregulated use of technology—the internet’s effects on privacy and security show the risk of a laissez faire approach—but we also want to avoid overregulation, since this is a proven way to stop innovation and give technological advantage to other countries. Our next reports will look at how facial recognition technologies work, the current policy and regulatory environment for facial recognition in the United States, and how policymakers should approach regulation.  
+James Andrew Lewis is a senior vice president and director of the Strategic Technologies Program at the Center for Strategic and International Studies (CSIS) in Washington, D.C. William Crumpler is a research associate with the CSIS Strategic Technologies Program.
+This report is made possible with support from the U.S. Department of Homeland Security.
+This report is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).
+© 2021 by the Center for Strategic and International Studies. All rights reserved.
+
+
+ 
+Downloads
+ Download the Full Report 
+
+Written By
+
+
+
+
+
+James Andrew Lewis
+Senior Vice President and Director, Strategic Technologies Program
+
+
+
+William Crumpler
+
+
+
+Media Queries
+ Contact H. Andrew Schwartz Chief Communications Officer Tel: 202.775.3242
+ Contact Caleb Diamond Media Relations Manager and Editorial Associate Tel: 202.775.3173
+
+
+ 
+Related
+Artificial Intelligence, Cybersecurity and Technology, Facial Recognition, Intelligence, Surveillance, and Privacy, Strategic Technologies Program, Technology and Innovation 
+
+  
+ 
+Most Recent From James Andrew Lewis
+ 
+ 
+Upcoming Event
+
+
+
+Responding to Hacks Against America
+May 27, 2021
+
+
+ 
+In the News
+
+
+
+The latest arena of US-China confrontation: international tech standards 
+
+Marketplace     
+    |
+          Sabri Ben-Achour       
+May 20, 2021
+
+
+ 
+Report
+
+
+
+Mapping the National Security Industrial Base: Policy Shaping Issues
+By James Andrew Lewis
+May 19, 2021
+
+
+ 
+In the News
+
+
+
+America Changed Forever 5/14 
+
+CBS News     
+    |
+          Jeff Pegues       
+May 14, 2021
+
+
+ 
+In the News
+
+
+
+Hacking group tied to cyber attack on US pipeline said to have shut down 
+
+Financial Times     
+    |
+          Hannah Murphy, Myles McCormick, Katrina Manson       
+May 14, 2021
+
+
+ 
+In the News
+
+
+
+Ransomware on the rise in the US 
+
+BBC World Service    
+    |
+          The Real Story       
+May 13, 2021
+
+
+ 
+On Demand Event
+
+
+
+When Vaccine Confidence Becomes National Security
+May 10, 2021
+
+
+ 
+In the News
+
+
+
+US opens debate over cyber ransom payments after pipeline hack 
+
+Financial Times     
+    |
+          James Politi, Katrina Manson, Derek Brower, Myles McCormick, Hannah Murphy      
+May 10, 2021
+
+
+
+View all content by this expert 
+
+
+ 
+
+
+
+  Footer menu 
+Topics
+Regions
+Programs
+Experts
+Events
+Analysis
+Web Projects
+Podcasts
+iDeas Lab
+Transcripts
+About Us
+Support Us
+
+ 
+  Contact CSIS Email CSIS
+Tel: 202.887.0200
+Fax: 202.775.3199
+ Visit CSIS Headquarters 1616 Rhode Island Avenue, NW
+Washington, DC 20036
+ Media Queries Contact H. Andrew Schwartz Chief Communications Officer Tel: 202.775.3242
+ Contact Caleb Diamond Media Relations Manager and Editorial Associate Tel: 202.775.3173
+
+ 
+  Daily Updates Sign up to receive The Evening, a daily brief on the news, events, and people shaping the world of international affairs.Subscribe to CSIS Newsletters  Follow CSIS 
+Facebook
+Twitter
+LinkedIn
+YouTube
+Instagram
+
+
+ 
+
+All content © 2021. All rights reserved.
+Legal menu 
+Credits
+Privacy Policy
+Reprint Permissions
+
+
+
+
+ 
+

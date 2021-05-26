@@ -1,0 +1,684 @@
+
+
+
+
+
+
+
+
+
+
+A blueprint for technology governance in the post-pandemic world
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+  
+
+
+
+
+Search Brookings
+
+
+
+ Search
+
+
+About UsPress RoomExpertsEventsBrookings PressWashU@BrookingsCareersNewslettersSupport Brookings
+
+
+Cart
+0
+
+
+Search  Guidance for the Brookings community and the public on our response to the coronavirus (COVID-19) »
+Learn more from Brookings scholars about the global response to coronavirus (COVID-19) »
+
+
+
+
+
+ The Brookings Institution
+ 
+
+ The Brookings Institution
+ 
+
+
+A blueprint for technology governance in the post-pandemic world
+FacebookTwitterLinkedInPrintSMSEmailMoreRedditAI
+Cities & Regions
+Global Dev
+Intl Affairs
+U.S. Economy
+U.S. Politics & Govt
+More
+ 
+ Search
+
+
+
+ Menu
+
+
+0
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Report
+A blueprint for technology governance in the post-pandemic world
+
+Landry Signé and Stephen Almond
+Wednesday, February 17, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+FacebookTwitterLinkedInPrintSMSEmailMoreReddit
+
+
+
+
+
+
+
+Contents 
+
+Summary
+Challenge
+Limits of historic and existing policies
+Policy recommendations
+Conclusion
+
+
+Summary
+
+
+
+
+
+
+
+Landry Signé
+
+					Senior Fellow - Global Economy and Development, Africa Growth Initiative 
+
+ Twitter
+LandrySigne
+
+
+
+
+
+
+S
+
+
+
+Stephen Almond
+
+					Fellow - Center for the Fourth Industrial Revolution, World Economic Forum 
+
+
+
+
+
+Too often, regulation struggles to keep pace with innovation. New ideas, products, and business models are hampered, while citizens are left with outdated protections. As governments seek to build back better following the COVID-19 pandemic, a more agile, innovation-enabling approach to regulation is needed.
+This report presents a blueprint for regulatory reform offices, such as the U.S. Office of Information and Regulatory Affairs, to introduce a more innovation-enabling approach to regulation across government and seize the opportunities of technological change. Systematic measures are needed to enhance foresight, focus regulation on outcomes, create space to experiment, harness data to target interventions, leverage the role of the private sector, bring about a seamless regulatory landscape, and tackle barriers to trade and cooperation.
+As the Fourth Industrial Revolution takes hold, it will be those governments that succeed in engineering this shift to a more agile regulatory approach that will gain a competitive advantage in the global economy and will help secure their prosperity in the post-pandemic era. But succeeding in this transition won’t be easy, since many regulators lack sufficient capacity or capability to respond to technological change.
+Change-makers need to go beyond announcing eye-catching initiatives such as regulatory sandboxes and engineer a cultural shift in regulation across government, learning lessons from innovators themselves on how to foster change. In developing their strategies, governments need to consider how to engage with what the market really needs and adapt their approach dynamically as the world changes.
+
+Back to top ⇑
+
+Challenge
+The COVID-19 pandemic has demonstrated the weaknesses of regulatory systems designed with the past in mind. Governments around the world have had to rewrite rules at a breakneck pace both to allow their citizens to benefit from innovations such as telemedicine and drone delivery and to help their economies adapt to the many disruptions the pandemic has caused.
+The challenges facing regulatory systems have been apparent for some time. Well before the pandemic, regulators found themselves racing to adapt to the Fourth Industrial Revolution: A wave of parallel technological developments in areas from artificial intelligence to biotechnologies that are rapidly reshaping the sectors they regulate. If governed well, such innovations could help power renewed economic growth and tackle pressing social and environmental challenges.
+But two problems have arisen. First, regulation has struggled to keep pace with the speed at which innovations emerge (the “pacing problem”). Technology adoption lags have fallen dramatically over successive industrial revolutions (Figure 1); it can now take weeks to introduce new ideas, products, and business models but years to change the law. The potential of innovation is diminished by regulatory barriers and uncertainty while the law fails to offer protections against emerging harms.
+
+The challenge is compounded by the breadth and depth of technological change in this Fourth Industrial Revolution. Regulators have found themselves grappling with innovations whose implications lie partly outside their sectoral or geographical jurisdiction, requiring collective action with others (the “coordination problem”). The need for coordination is especially true for digital technologies, where firms are increasingly able to switch between different jurisdictions at low cost while retaining a global customer base.
+Without reform, regulation is in danger of stifling the potential of technological innovation while failing to address its risks. In areas from social media to shared mobility, rigid rules and remits have led to the emergence of gray areas, where regulators struggle to intervene while faltering international cooperation has hindered governance of risks that transcend national borders. In some cases, the social contract is imperiled, as regulators are perceived to be unable or unwilling to address novel harms.
+The COVID-19 pandemic has increased not only awareness of these issues, but also the urgency of addressing them. In many areas, the pandemic has accelerated the adoption of digitally-enabled ways of producing goods or providing services, as physical interaction has become less possible. As governments rebuild afresh following the pandemic, they cannot afford to let the innovation that will power economic recovery and address social and environmental challenges be held back by outdated regulation.
+While specific regulatory changes are indubitably necessary, these issues call for a fundamental rethinking of how regulation is developed and administered across the whole of government. A more adaptive and coordinated approach to regulation is needed, which leverages the role that the private sector and civil society can play.
+Back to top ⇑
+
+Limits of historic and existing policies
+Historically, effective regulatory practice has centered on the concepts of proportionality, openness, and fairness. It is crucial that the costs of regulation are proportionate to its benefits, that regulation is informed by those who hold an interest in it, and that regulatory decisions are made on an objective, impartial, and consistent basis.
+These tenets have led to the development of a linear and at times lengthy regulatory process, in which governments assess the impact of regulatory changes and consult on them before adding them to the statute book—at which point they are rarely changed. A 2017 analysis by Deloitte found that 67 percent of all current sections of the U.S. Code of Federal Regulations had never been edited since they were originally created.
+The issue is systemic. In 2018, the OECD reviewed the practices of its members and found that “although certain laws and regulations might be obsolete, imposing unnecessary costs on business and potentially putting citizens at risk, countries still fail to systematically collect evidence, monitor implementation and evaluate results.” Countries are deemed to be “more adept” at designing regulations than reviewing them.
+Perhaps as a consequence, regulatory reform initiatives have chiefly been backward-looking. Initiatives such as the U.S. “two for one” rule have sought to tackle the stock of regulation and slow the flow of new regulatory measures, yet have failed to tackle the root of the “regulate and forget” approach that bedevils governments. At worst, they have created an internal bureaucracy of their own—inhibiting timely regulatory intervention.
+Moreover, such measures have failed to address the needs of businesses seeking to innovate and do things differently. In 2018, just 29 percent of U.K. businesses believed that the government’s approach to regulation enabled them to get new products and services on to the market, despite years of reforms to tackle the burden of regulation. Another survey found that 92 percent of businesses thought that they would lose revenue if regulators did not keep pace with disruptive change in the next two to three years.
+The foundational ideas of proportionality, openness and fairness are necessary but not sufficient in the context of the Fourth Industrial Revolution. These ideas must be weighed against the need for agility in responding to the opportunities and challenges of innovation. The answer to the “regulate and forget” approach within government is not simply to make better regulations or institute periodic reviews, but rather to instill an “adapt and learn” mindset that acknowledges that regulation must continuously evolve to keep pace with external change.
+Back to top ⇑
+
+Policy recommendations
+This report sets out a blueprint for such an agile approach to regulation, building on recent research with the World Economic Forum. As regulators around the world seek to respond to technological innovation, seven pillars of good practice can be identified. Ranging from foresight to experimentation, they address head on the need for a more adaptive, collaborative style of regulation in the Fourth Industrial Revolution.
+1. Anticipate innovation and its implications
+Regulators that are able to anticipate innovation and disruption are better positioned to seize the opportunities of technological innovation while minimizing the risks. Governments including Canada, Singapore, Sweden, the United Arab Emirates, and the U.K. are investing in regulatory foresight to help understand what the future looks like and prepare accordingly.
+Such initiatives typically examine emerging technologies and trends (e.g., through horizon-scanning) and their potential impacts on people, businesses, and the environment. The aim is to identify significant opportunities or risks and enable timely action to address them. In some cases, the insight gathered is used to develop scenarios for what the future will look like, which can be used to test the resilience of potential regulatory interventions.
+The goal is not to rush to regulate and stifle innovation, but rather to allow regulators time to iterate their approach in dialogue with businesses and stakeholders as the technology develops. In this paradigm, regulators may steer the development of innovation through soft law mechanisms such as regulatory guidance or voluntary standards, codifying their approach into law only as the technology reaches full maturity.
+2. Focus regulations on outcomes
+Excessively prescriptive regulation can rapidly become obsolete as new ideas, products, and business models emerge. Governments including Denmark, Japan, and the U.K. have introduced a presumption that regulation should focus on the achievement of outcomes rather than prescribe the use of specific inputs or processes.
+The idea is to enable businesses to innovate in how they achieve regulatory goals and find the most efficient way to comply. Regulation that focuses on long-term policy goals is more likely to be resilient in the context of rapid, complex technological change. Goal-based approaches can also give regulators greater flexibility in how they mobilize their powers, so that that the process leads to the best possible results for citizens and the environment.
+Not all businesses have the capability or capacity to interpret goal-based regulation, and in some cases (e.g. when outcomes are not easily measured or attributed) a more prescriptive regulatory approach may be warranted. Soft law mechanisms, such as regulatory guidance, codes of practice, and voluntary standards, may be used to complement goal-based regulation and reduce regulatory uncertainty for businesses while providing flexibility for those that wish to innovate.
+3. Create space to experiment
+Regulators that engage with technological development are better able to shape its evolution and learn about how their own regulatory approach needs to adapt.
+In the last decade, regulators in over 50 jurisdictions have introduced mechanisms such as “sandboxes” to enable innovators to get advice on the regulatory implications of their ideas and/or trial them under regulatory supervision. Prominent examples are found in Canada, Denmark, Germany, Japan, Italy, Singapore [1, 2, 3], South Korea, Taiwan, the UAE, and the U.K. In some cases, governments have introduced experimentation clauses into law to enable alternative approaches to be taken.
+The idea is simple. As the Head of Amazon U.K. Doug Gurr described: “It’s a rather progressive way of thinking about this—instead of sitting there and saying we’re going to write the regulation in isolation without understanding the technology, they’re going to be looking over our shoulder every step of the way and they’re going to develop the regulation hand-in-hand with the technology. If we do that we get better outcomes.”
+But the idea of regulatory experimentation has not found favor with all. Responding to the introduction of regulatory sandboxes in other jurisdictions, the superintendent of the New York Department of Financial Services Mario Vullo said, “Toddlers play in sandboxes. Adults play by the rules.” Checks and balances are certainly needed to ensure that regulatory experiments do not undermine the goals of regulation or distort markets unfairly. Mechanisms are needed to ensure that learning is gathered from regulatory experiments and timely reforms to regulation are introduced for the benefit of all.
+
+
+
+
+Box 1. Agility in practice: The UK Financial Conduct Authority
+ 
+Emerging financial technologies (‘fintech’) are changing the way we bank, invest, insure and pay for things. Recognizing the opportunity to drive competition and deliver better outcomes, in 2014 the U.K. Financial Conduct Authority established Project Innovate to support and stimulate fintech innovation in the interest of consumers.
+ 
+Activities include:
+ 
+– Engagement with innovators to anticipate and shape emerging ideas, products, and business models
+ 
+– Supporting businesses so they can test innovations with real consumers in the market in a controlled way through regulatory sandboxes
+ 
+– Techsprints to stimulate the development of technologies with the potential to help overcome regulatory challenges in financial services
+ 
+– Collaboration with other regulators to support businesses in navigating related rules, e.g. on data protection, including a potential cross-sector sandbox
+ 
+– Supporting fintech businesses as they scale their ideas internationally through regulatory cooperation agreements and, since 2019, the Global Financial Innovation Network.
+ 
+Evaluation by the Financial Conduct Authority suggests that Innovate has given “firms the regulatory certainty they need to develop their innovations and deliver them at speed.” Using the sandbox has allowed firms to cut the time and cost of bringing innovative ideas to market (40 percent reduction in time to receive authorization) and has improved their access to finance (£135m total equity funding raised by firms in the first cohort).
+ 
+Eighty percent of firms that successfully tested in the sandbox are still in operation, with incumbents responding by competing harder and improving their own offerings. FinTech firm Assure Hedge completed the sandbox program to become a fully regulated company. Barry McCarthy said, the founder and chief executive of Assure Hedge said:
+ 
+“We have effectively been given the same regulation that large banks have, so it really allows us to compete with the big players.”
+ 
+But it is not only business that has reaped the benefits: Consumers have been able to access new products with better safeguards already in place, and the regulator has been able to draw on the insight it has gained into technological innovation to update its policy positions in areas such as crypto assets.
+
+
+
+4. Use data to target interventions
+Data-driven technologies are not just transforming business—they can revolutionize regulation too.
+Regulators have access to more ways to gather and analyze data than ever before, including through drones, smart sensing, wearables, the Internet of Things (IoT), web-scraping, robotic process automation, big data analytics, and artificial intelligence. Taken together, these developments open up a world in which regulatory interventions may be finely targeted, outcomes may be monitored in real time, and rules may be evaluated and updated at pace.
+Financial services regulators are at the forefront of this trend, using hackathons and tech sprints to develop technologies that enable them to respond in a more agile way to risks. The adoption of data-driven technologies can enable a more outcome-focused, experimental regulatory approach, as regulators are able to grant businesses greater flexibility to innovate, safe in the knowledge that they can more rapidly intervene.
+5. Leverage the role of business
+If regulators are to match the speed and complexity of the Fourth Industrial Revolution, they need to leverage the role that the private sector can play in the responsible governance of innovation.
+Industry-led governance mechanisms, such as voluntary standards, codes of conduct, and industry covenants, can help deliver policy objectives more rapidly than regulatory intervention. Authorities including the European Commission have developed principles to support the greater use of self- and co-regulation approaches.
+The information asymmetry between businesses and regulators means that industry is often better placed to manage the risks from technological innovation most efficiently and effectively. As already noted, industry-led governance can complement the use of goal-based regulatory approaches by providing guidance to businesses on how outcomes can be achieved.
+Like regulation, industry-led governance introduces benefits and costs for those who participate in it. Where participation becomes a de facto or de jure requirement for businesses to operate (for example through statutory backing, buyer/consumer requirements, reputational incentives), care is needed to ensure that governance is proportionate, open, fair, and agile.
+6. Work across institutional boundaries
+The technological innovations that are the hallmark of the Fourth Industrial Revolution straddle sectors and institutions alike. Businesses can easily find themselves navigating a patchwork of regulations that deters them from introducing new ideas, products, and business models. In response, governments including Denmark and Japan have introduced single points of contact or “one-stop-shops” to enable businesses to engage more straightforwardly with different national regulators on their ideas and to ensure that issues are tackled in a coordinated way.
+In the same way, coordination is needed to avoid unnecessary divergence in regulatory approaches across localities that would make it harder to trade or achieve shared regulatory goals. This need not mean that regulations should be the same, but rather that where possible they should be interoperable. Authorities in Japan and South Korea have exploited the potential to trial different regulatory approaches in different localities to inform decisions about how to adapt regulation more generally.
+7. Collaborate internationally
+The Fourth Industrial Revolution is reshaping business the world over, creating common opportunities and risks that regulators in different jurisdictions must respond to. By cooperating across borders, regulators can facilitate trade and investment and address shared challenges more efficiently and effectively.
+Regulators in different jurisdictions are finding new ways to cooperate on technological innovation, including through sharing foresight and joint experimentation. Such activities can create the conditions for regulators to develop more interoperable and effective rules. Plurilateral alliances have emerged in areas such as fintech and medicines, while in December 2020 the governments of Canada, Denmark, Italy, Japan, Singapore, the UAE, and the U.K. came together to establish the Agile Nations: a regulatory cooperation partnership that will cover innovations ranging from green technologies to mobility. (Another Blueprint paper in this series provides insights on forums where international cooperation on artificial intelligence is already being pursued.)
+From foresight centers to regulatory sandboxes, agile regulatory initiatives have now been introduced in over fifty different jurisdictions to respond to innovation in areas such as finance, transport, health, data, and the green economy. Notwithstanding the diversity of these initiatives, four lessons can be identified on how agile regulatory initiatives can be introduced successfully.
+A. Engage the market
+It sounds obvious, but agile regulatory initiatives such as sandboxes need to tackle the real barriers that innovators face in introducing new ideas, products, and business models if they are to address them. Regulation is not always the limiting factor on innovation, since issues such as capability, capital, and culture may also be at play.
+Even where regulation is perceived to be the issue, there may be many more opportunities for innovation within the rules than businesses realize. A well-designed scheme to provide advice to businesses on the regulatory implications of their new ideas can often have greater reach and impact than an eye-catching but resource-intensive testing environment targeted toward frontier innovations.
+B. Build on good practice 
+Care is needed to ensure that regulation remains proportionate, open, and fair. For example, industry-led governance must not reduce the voice of civil society in shaping how technological innovation is governed, while data-driven technologies must be employed in a way that does not introduce or replicate bias in regulatory decisions.
+Checks and balances need to be built into the design of agile regulatory initiatives from the beginning. For example, regulators have managed the risks of sandboxes undermining the level playing field for business by ensuring that support is time-limited and awarded on a competitive basis according to clear criteria (e.g. degree of innovation, regulatory barriers faced). Such controls help minimize market distortion and ensure that it is the best ideas that succeed.
+C. Think holistically
+While the agile regulatory initiatives in this blueprint can be employed separately, the seven pillars are mutually reinforcing and have the greatest impact when employed jointly. The example of the U.K. Financial Conduct Authority shows how these techniques can be introduced as part of a holistic regulatory strategy.
+For example, regulatory sandboxes can offer a vital source of intelligence about emerging technologies and innovations. Shared industry-led governance (e.g., international standards) can underpin greater international regulatory cooperation. Data-driven enforcement can complement and enable a more outcome-focused regulatory approach.
+Conversely, a lack of action under one pillar may inhibit success in another. A sandbox led by one regulator is unlikely to accelerate innovation if another regulator’s actions still lead to critical delays, while the benefits of responsible industry-led governance may be diminished if the overarching regulatory regime is still heavily prescriptive.
+D. Evaluate and learn
+Agile regulation should be considered a dynamic process that adapts to changes in the external context. As innovations emerge, existing regulatory regimes may be too rigid and greater space for experimentation may be needed. But as technological innovation slows, the need for predictable and stable governance may outweigh the need for flexibility.
+Monitoring and evaluation is critical to ensuring that initiatives have their intended effect and that the regulatory system keeps pace dynamically with innovation. Many agile regulatory approaches are novel in nature and it is essential that feedback loops are built in to ensure that they are effective.
+Back to top ⇑
+
+Conclusion
+While growing in popularity, the use of more agile regulatory approaches is not yet mainstream within governments. Many regulators view innovation as outside their remit, preferring to respond to change after it has happened rather than shape events upstream—notwithstanding the resulting damage to their goals and costs to business.
+A more agile regulatory approach is—often rightly—perceived to introduce novel risks and costs. Many regulators lack the capacity and capability to engage further upstream, especially where budget constraints mean that the talent needed to govern innovators is hoovered up by businesses themselves. Some regulators elect to stay in the comfort zone of their legislative silo rather than lean into disruptive change.
+For those looking to introduce a more agile regulatory approach across government as a whole, the answer does not simply lie in establishing eye-catching sandboxes or foresight initiatives. Rather, they need to reflect on how to incentivize a culture shift within regulators: towards influencing upstream over reacting downstream; prioritizing outcomes over rules; adapting to change over following a plan; leveraging others over exercising sole control; and collaborating across boundaries over working in silos.
+In this regard, competitive innovation funds such as those in the U.K. and Germany offer an interesting example of how governments and other organizations (e.g., development banks) can incentivize the introduction of more agile regulatory approaches as set out in Parts A and B. Regulatory initiatives that secure funding benefit both from investment in their capability and capacity and, crucially, endorsement of the approach that they are taking—providing a vital signal to other regulators on the importance of a more agile approach.
+Further work is needed at a governmental and intergovernmental level to drive this strategic shift in regulation. Testifying to the increasing importance of this shift, later this year the OECD will set out principles for its members on effective and innovation-friendly rule-making in the Fourth Industrial Revolution—and assessment of government performance in these areas will no doubt soon follow.
+As the Fourth Industrial Revolution takes hold, those governments that succeed in engineering a shift to a more agile regulatory approach will gain a competitive advantage in the global economy. Governments must act now if they are to unlock the potential of this wave of technological innovation and shape it in the interest of their citizens.
+Back to top ⇑
+
+
+Related Content
+
+
+
+
+
+
+ 
+
+
+
+Op-Ed
+The new urgency of global tech governance
+
+Landry Signé, Mark Esposito, and Sanjeev Khagram
+Thursday, September 10, 2020
+
+
+
+
+
+
+
+
+
+Acknowledgments:
+The authors are grateful to Joshua Meltzer, Elaine Kamarck, and anonymous reviewers for their insightful comments, and to David Batcheck and Daniela Gainsburg for their editorial work.
+
+
+
+Related Topics
+
+117th U.S. Congress
+Global Governance & Politics
+Technology & Innovation
+Transition 2021
+Transition 2021: Governance
+U.S. Foreign Policy
+
+
+
+
+
+More
+
+
+
+
+
+2021
+Apr
+28
+
+
+Past Event
+Examining China’s telecommunications ambitions
+
+10:00 AM -
+						
+							11:00 AM EDT						
+
+
+						Online Only					
+
+
+
+
+
+
+
+ 
+
+
+
+Op-Ed
+Digital trade deal ripe for the Indo-Pacific
+
+Wendy Cutler and Joshua P. Meltzer
+Monday, April 5, 2021
+
+
+
+
+
+
+2021
+Mar
+19
+
+
+Past Event
+Remembering the first ‘space war’: A discussion with Lt. Gen. B. Chance Saltzman
+
+1:30 PM -
+						
+							2:30 PM EDT						
+
+
+						Online Only					
+
+
+
+
+
+
+
+
+ The Brookings Institution
+
+
+
+
+
+ Facebook
+Find us on Facebook
+
+
+
+
+ Twitter
+Find us on Twitter
+
+
+
+
+ YouTube
+Find us on YouTube
+
+
+
+
+ Podcast
+Listen to our Podcast
+
+
+
+
+ Browse Newsletters
+Browse Newsletters
+
+
+
+
+ RSS
+Subscribe to our RSS
+
+
+
+
+
+Languages
+Español
+中文
+عربي
+
+
+
+
+About Us
+Research Programs
+Find an Expert
+Careers
+Contact
+Terms and Conditions
+Brookings Privacy Policy
+Copyright 2021 The Brookings Institution
+
+
+
+
+ The Brookings Institution
+
+ Close
+
+
+
+
+Trending
+
+
+
+
+				U.S. Economy			
+
+
+
+				International Affairs			
+
+
+
+				Education			
+
+
+
+
+Topics
+
+
+
+
+				AI			
+
+
+
+				Cities & Regions			
+
+
+
+				Global Dev			
+
+
+
+				Intl Affairs			
+
+
+
+				U.S. Economy			
+
+
+
+				U.S. Politics & Govt			
+
+
+
+				More			
+
+
+
+
+
+				About Us			
+
+
+
+				Press Room			
+
+
+
+				Experts			
+
+
+
+				Events			
+
+
+
+				Brookings Press			
+
+
+
+				WashU@Brookings			
+
+
+
+				Careers			
+
+
+
+				Newsletters			
+
+
+
+				Support Brookings			
+
+
+
+Cart
+0
+
+
+
+
+
+Get daily updates from Brookings
+
+
+
+
+
+
+
+    
+Enter Email
+  
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
