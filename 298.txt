@@ -1,0 +1,753 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Turning A Brown Credit Risk Infrastructure To Green
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global Locations
+Contact
+Media Center
+Alumni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Culture
+
+
+
+
+Our People
+
+
+
+
+Our Values
+
+
+
+
+Our History
+
+
+The Greater Good
+
+
+Strategic Partners
+
+
+
+
+
+
+Our Impact
+
+
+
+
+Recognition and Accolades
+
+
+
+
+
+
+Alumni
+
+
+
+
+Inclusion & Diversity
+
+
+
+
+MissionINCLUDE
+
+
+2018 UK Gender Pay Gap Report
+
+
+Women At Oliver Wyman (WOW)
+
+
+Employees Of Oliver Wyman Enabling Racial & Ethnic Diversity (EMPOWERED)
+
+
+LGBT+ And Allies At Oliver Wyman
+
+
+Veterans Of Oliver Wyman (VOW)
+
+
+Family Life At Oliver Wyman (FLOW)
+
+
+Introversion At Oliver Wyman
+
+
+2020 UK Gender Pay Gap Report
+
+
+
+
+
+
+Oliver Wyman For Society
+
+
+
+
+Sustainability
+
+
+
+
+
+
+
+
+Our Expertise
+
+
+
+
+Industries
+
+
+
+
+Automotive
+
+
+Business Services
+
+
+Communications, Media, And Technology
+
+
+Education
+
+
+Energy
+
+
+Financial Services
+
+
+Health And Life Sciences
+
+
+Industrial Products
+
+
+Public Sector And Policy
+
+
+Retail And Consumer Goods
+
+
+Transportation
+
+
+
+
+
+
+Capabilities
+
+
+
+
+Actuarial
+
+
+Climate And Sustainability
+
+
+Corporate Finance And Restructuring
+
+
+Digital
+
+
+Lippincott: Brand and Innovation
+
+
+Operations
+
+
+Organizational Effectiveness
+
+
+Payments
+
+
+Pricing, Sales, And Marketing
+
+
+Risk Management
+
+
+Strategy
+
+
+Oliver Wyman Engineers
+
+
+
+
+
+
+Insights
+
+
+
+
+Events
+
+
+
+
+Hubs
+
+
+
+
+
+
+
+
+Careers
+
+
+
+
+Students and Recent Graduates
+
+
+
+
+Roles At Oliver Wyman
+
+
+
+
+Apply Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Turning A Brown Credit Risk Infrastructure To Green
+
+By Mark James and Rebecca Emerson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ // . // 
+
+
+
+
+
+//
+
+
+
+
+Turning A Brown Credit Risk Infrastructure To Green
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a three part series on bank credit risk. You can read our previous articles on curing data indigestion here, and how bank credit infrastructure is the weakest link here. 
+Upgrading is no longer “too hard”
+Institutions with sub-standard credit risk infrastructure are flying blind through the storms of today’s highly uncertain and volatile world. COVID-19 has shown the importance of having a responsive and efficient credit risk technology platform. Moving to a more modern credit risk infrastructure is an imperative to be more innovative, agile, and get ahead of competitors.
+Many credit risk leaders recognize that they have poor technology infrastructure, but having experienced migration failures before, there is a real fear that credit risk infrastructure is too difficult to change or too easily broken. Waves of regulatory change and credit risk management tools have not considered technology strategically but rather as the final requirement or obstacle. Technology programs have promised a big delivery to pay off all accumulated technical debt, but they never managed to clear the balance, leaving credit risk functions disappointed.
+As a result, credit risk departments use workarounds consisting of spreadsheets, manual processes, and teams of cheap offshore colleagues. Most banks are content to live with workarounds a bit longer and redirect precious investment dollars to other priorities, in the knowledge that regulators are not mandating system overhauls any time soon, leaving it to a future generation of managers to sort out.
+So, why bother? Banks with well-functioning credit risk technology will be able to pro-actively manage their exposures and clients, giving them an advantage over their peers. It will also ensure that their day-to-day costs, both direct and indirect, are lower.
+Using a combination of new technologies and ways of working, successful migration is possible. The flexibility of newer, open source tools deployed sequentially using a modular / building-block approach, makes the migration easier to digest and buy into. Whereas previously, using older methods and approaches, large changes were promised to be delivered at the end of project, but the end was never reached (sometimes due to budget cuts), so the expected improvements were never delivered. Changing how the migration is approached is essential for success.
+We know of one large bank which has finally embarked on a program to move away from their monolithic credit infrastructure. They designed a program which would deliver tangible results at key milestones every few months to improve the credit officers’ day-to-day lives. One year on, not only are the running costs lower but the information available for decision making is timelier and better, enabling the credit officers to make decisions faster—and potentially ahead of the competition.
+Recommendation one: Check your sums
+The benefits of a new system should be enormous when compared to the real costs of running outdated, monolithic systems.
+Indirect costs associated with the current, poor infrastructure are often overlooked in return-on-investment calculations. For example, if a new system can prevent expensive and experienced credit risk officers from spending up to two hours every day questioning the underlying data and information and get on with more value-added credit decisioning work instead, this benefit should be factored into the calculation. The sum of these types of improvements can be substantial and can fundamentally change the underlying cost structure of a risk unit.
+Also, the lower running costs of the simpler infrastructure should not be neglected as a clear benefit. Usually, this benefit from the reduced infrastructure complexity needs to be banked during the migration to support the sums. This means that obsolete pieces of infrastructure need to be shrunk at each step, to realize savings before fully retiring them.
+Recommendation two: One step at a time
+Firstly, to allay the “fear of failure” and get the sums to work, quicks wins need to be planned and delivered. Delayed benefits realization is the enemy of a large-scale systems program. Successful migration plans are often organized as sprints with agreed tangible outcomes, so that clear benefits are delivered soon, and the naysayers are silenced. A good discipline is ensuring that these initial sprints are self-funding.
+Once migration has proved possible, a broader series of sprints should follow. Outcomes must be tangible, and improvements should now target various layers of the infrastructure and/or multiple processes. A good practice when planning these is to ensure that if the budget were to be pulled at the end of each year, the credit risk infrastructure would be in better shape.
+Recommendation three: Go mod
+To deliver tangible benefits early in the migration, a modular approach is essential. For example, we know of one bank which only grants project budgets on an annual basis. This approach had left their core credit risk infrastructure riddled with partially integrated components, which made the overall architecture more complicated and expensive to run, as a result to stopped projects. Taking a modular approach to the current attempt at transformation means that if the budget in not granted further down the line, benefits will have already been realised
+
+When planning a migration, banks need to strike the right balance between fixing the core technology issues and making visible improvements for users. For example, fixing the credit scoring process requires changing how a large amount of data moves through the systems until the impact is visible. Making the credit officer interfaces more user friendly while this happens will ensure progress. To construct the individual projects in the book of work, a combined risk process and technology layer view is key (Where we have seen this most effective is where a joint team from both credit risk and technology is used with substantial time commitment from the credit officers.).
+
+Lastly, use of modern architecture principles and tools provide the flexibility needed for the modular or building-block approach to migration. Such an approach allows banks to work on multiple areas at the same time as well as speeding up or slowing down the migration. For example, work on the data ingestion engine can be going at the same time as the creating the credit reports and dashboards although these effectively are at different ends of the process.
+Recommendation four: Embrace an agility culture
+Successful migration is not down to the technology. It is about the culture of transformation and how the migration program is driven. Integrated teams of credit risk officers and technologists are essential with both groups having an interest in and being measured on the successful outcome. Embracing agile practices, which risk has been sceptical of in the past, and development and operations (DevOps) will help create a culture of disciplined delivery, teaming, and accountability. Additionally, the Chief Credit Officer and Head of Risk Technology need to be joint sponsors, not just holding their own teams to account but in turn being held to account themselves.
+Yes, you can!
+Having a successful migration to a modern, well-functioning credit risk platform is possible, but it doesn’t just happen by itself. It is essential that risk and tech teams work together and push to achieve tangible outcomes at the end of each sprint. Using modern, modular technology in the build will make it easier to deliver benefits each step of the way.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital
+Finance & Risk
+
+
+
+
+
+Authors
+
+
+
+
+
+
+
+
+
+Mark James
+
+      Partner
+    
+
+
+
+
+
+
+
+
+
+
+
+Rebecca Emerson
+
+      Partner
+    
+
+
+
+
+
+
+
+
+
+
+
+Bank Credit Infrastructure Is The Weakest Link
+We have outlined five ways bank credit infrastructure can be transformed
+
+
+Curing Data Indigestion
+Practical ways to improve credit data quality   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are one of the FORTUNE 100 best companies in the world to work for
+
+
+
+
+
+Students And Recent Graduates Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marsh McLennan is the leader in risk, strategy and people, helping clients navigate a dynamic environment through four global businesses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms of Use
+
+
+Privacy Notice
+
+
+Cookie Notice
+
+
+
+
+
+
+
+© 2021 Oliver Wyman INC. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+Download Oliver Wyman Ideas App Our latest insights on your mobile device
+
+
+ 
+ 
+
+
+
+
+ © 2021 Oliver Wyman 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

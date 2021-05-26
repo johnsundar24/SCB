@@ -1,0 +1,844 @@
+
+
+
+
+
+
+
+
+
+
+Strengthening international cooperation on artificial intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+  
+
+
+
+
+Search Brookings
+
+
+
+ Search
+
+
+About UsPress RoomExpertsEventsBrookings PressWashU@BrookingsCareersNewslettersSupport Brookings
+
+
+Cart
+0
+
+
+Search  Guidance for the Brookings community and the public on our response to the coronavirus (COVID-19) »
+Learn more from Brookings scholars about the global response to coronavirus (COVID-19) »
+
+
+
+
+
+ The Brookings Institution
+ 
+
+ The Brookings Institution
+ 
+
+
+Strengthening international cooperation on artificial intelligence
+FacebookTwitterLinkedInPrintSMSEmailMoreRedditAI
+Cities & Regions
+Global Dev
+Intl Affairs
+U.S. Economy
+U.S. Politics & Govt
+More
+ 
+ Search
+
+
+
+ Menu
+
+
+0
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Report
+Strengthening international cooperation on artificial intelligence
+
+Joshua P. Meltzer and Cameron F. Kerry
+Wednesday, February 17, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+FacebookTwitterLinkedInPrintSMSEmailMoreReddit
+
+
+
+
+
+
+
+Contents 
+
+Summary
+Challenge
+Limits of historic and existing policies
+Policy recommendations
+
+
+Summary
+
+
+
+
+
+
+
+Joshua P. Meltzer
+
+					Senior Fellow - Global Economy and Development 
+
+ Twitter
+@JoshuaPMeltzer
+
+
+
+
+
+
+
+
+Cameron F. Kerry
+
+					Ann R. and Andrew H. Tisch Distinguished Visiting Fellow - Governance Studies, Center for Technology Innovation 
+
+ Twitter
+@Cam_Kerry
+
+
+
+
+
+
+Artificial Intelligence (AI) is a potentially transformational technology that will have broad social, economic, national security, and geopolitical implications for the United States and the world.1 AI is not one particular technology but a general-purpose technology combining software and hardware in systems that enable technologies (machine learning, knowledge representation, and other forms of computerized approximation of human intelligence). This general-purpose nature means that AI could have wide-ranging economic impacts across manufacturing, transportation, health, education, and many other sectors. In 2018, the McKinsey Global Institute estimated that AI could add around 16 percent, or $13 trillion, to global output by 2030.2 Since then COVID-19 has further accelerated the use of AI.
+While the United States is the world leader in AI, China is catching up fast (and may lead in some areas) and other governments are expanding their own AI capacity. Rather than a zero-sum game, many such efforts can be additive, benefiting global welfare. The U.S. can encourage and support AI efforts that seek to develop and compete on fair terms. Other national policies—China’s above all—seek to erect barriers to free and open development of AI, appropriating the benefits for their national champions and applying AI as a geopolitical lever. Such policies could distort the development and benefits of AI for humanity, make the world less secure for the U.S. and allies, and markets less receptive to U.S. products and services.
+To foster AI policies that support development of beneficial, trustworthy, and robust artificial intelligence will require international engagement by the United States and cooperation among like-minded democracies that are leaders in artificial intelligence. This paper looks at the challenges of international cooperation to these ends. First, it provides background on AI and key government policies in the U.S. and among its major trading partners. It then examines drivers of international cooperation in AI, current mechanisms of cooperation, and their limits. Finally, it makes recommendations for how the Biden-Harris administration should respond to these challenges and work with like-minded countries.
+The new administration has been clear about its intentions to reengage with the world and “build back better” longstanding alliances, to elevate the role of science in its policymaking, and to increase equity and individual empowerment. These can bring added energy to forums for AI cooperation. They also may create high expectations when the trust of the United States is at an ebb. To promote successful cooperation and manage expectations, the new administration should develop a strategy for engagement at the highest levels on a broad range of technology issues that a global information society raises. This engagement should encompass international cooperation on AI in the various forums where AI is already being discussed and potentially additional ones.
+
+
+Back to top ⇑
+
+Challenge
+The U.S. is the world leader in AI. Its strength in AI has been built on a global, open, and distributed system of innovation. However, this leadership is being challenged on two main fronts. The first is from China, which has targeted development of strong AI capacity as a strategic and economic priority and source of global power. China has benefited from global cooperation on AI research and has expanded domestic innovation capacity. At the same time, China combines a restricted domestic market with an international approach to AI that includes aggressive acquisition of intellectual property (IP) and innovation from rivals, government subsidies that tilt the playing field towards Chinese companies, and strategic engagement in international forums for standards and norms that support China’s applications of AI. These tactics are often at odds with the interests of the U.S. and other leading economies, and the use of AI in applications like repressive surveillance is at odds with American values and those of other democracies.
+The second challenge comes from other governments whose AI policies could lead to prescriptive regulation that may stifle AI innovation and discriminate against U.S. technology firms. Such policies also disregard the global nature of AI development. Without international coordination and integration, AI policies are unlikely to realize their potential and instead create barriers to AI diffusion globally.
+AI’s potential
+Increases in the power of computer chips, software, storage, and access to increasingly large datasets over the past decade have produced enormous investment and development in AI. In academia, the share of conference papers that focus on AI tripled from 3 percent in the late 1990s to 9 percent in 2018; private funding has likewise ballooned, with global private AI investment exceeding $70 billion in 2019.
+This dramatic expansion in funding and interest reflects advances in what AI can do. These have been especially rapid in machine learning, where programs discover how to complete a task based on data, rather than relying on the primarily handwritten rules of the prior generations of software. Deep learning, a family of machine learning algorithms that learns in layers to build complex concepts out of less complex ones, has greatly improved the performance of computer vision and natural language processing. But not all AI involves brute force analysis of vast arrays of data. Reinforcement learning has led to superhuman video game performance and holds great promise for robotics. Novel infrastructures, such as two deep learning models competing against each other in generative adversarial networks, have enabled developments like eerily realistic synthetic media.
+These breakthroughs, in turn, have expanded where AI is applied and what insights it can derive for beneficial as well as harmful purposes. In the sciences, AI is advancing research in molecular discovery, understanding human systems biology, and the physics of everything from elementary particles to galaxies. Applied AI innovation seems all but certain to improve medical interventions, make transport safer, and weather predictions more accurate. At the same time, synthetic media can include deep fakes used to spread disinformation and generational adversarial networks can train malware to evade cybersecurity countermeasures.
+AI research is also increasingly interdisciplinary, as social scientists and economists, for instance, mix artificial intelligence and statistical causal inference techniques to advance their fields. Research in AI subfields like the robustness, explainability, and federation of machine learning systems is also helping us learn and reason about AI. These developments are essential for increasing trust in the use of AI in a range of applications where black box decisions or predictions can be problematic for its use, such as in critical infrastructure and cybersecurity, expanding opportunities for AI in government and private services, and in helping address concerns about the treatment of sensitive and personal information.
+Back to top ⇑
+
+Limits of historic and existing policies
+Government AI policies
+The economic and strategic importance of AI has led to a proliferation of AI policies and strategies globally. In 2017, Canada became the first country to adopt a national AI strategy. Now, according to the AI observatory maintained by the Organization for Economic Cooperation and Development (OECD), some 60 countries have AI policies. Government policy towards AI includes developing AI ethical principles, investing in AI R&D, preparing the workforce for opportunities as well as disruptions from AI, and assessing the need for AI regulation and standards.
+Development of AI ethical principles
+The development of principles for ethical use of AI has been a major focus for governments as well as international organizations, industry, academia, and civil society.3 The U.S. government has also been a key player in developing AI ethical principles. This includes work by the Obama administration,4 a more recent proposed AI ethical guidelines for U.S. government agencies,5 and sector-specific ethical principles from the Department of Defense.6 U.S. states and cities have also passed legislation addressing AI ethical issues such as algorithmic accountability,7 facial recognition,8 privacy and algorithmic profiling,9 and transparency.10 National governments in Europe, Japan, China, and Australia to mention a few; the EU as well as international organizations such as the OECD; and business, academia, and civil society, have developed ethical guidelines for AI.11
+There is significant international convergence around certain principles of ethical AI that provides an important starting point for international cooperation on AI.12 One report assessing 22 sets of such principles found that requirements for accountability and/or privacy and/or fairness appear in about 80 percent and appear to be the minimum requirements for an ethically-sound AI system. Over 70 percent of these ethical guidelines also call for transparency and openness, safety, and AI that is sustainable and for the common good.13 Principles on a role for human oversight and control appear in just over 50 percent and the need for AI ethical requirements such as explainability and interpretability appear in less than 50 percent of the ethical guidelines assessed.
+United States AI policy
+The Biden administration will inherit a set of AI policies that—unlike many policies over the past four years—built on those of the Obama administration. The National AI R&D Strategic Plan prepared in 2016 and updated in 2019 set priorities for federal investment in AI R&D,14 and Executive Order 13859 launched the American AI Initiative in 2019.15 The National Artificial Intelligence Initiative Act 2021 established the White House National Artificial Intelligence Initiative Office charged with coordinating the national AI strategy—a potentially powerful tool for a whole-of-government government to push on AI in a coordinated and strategic way.16 Office of Management and Budget (OMB) Guidance on how to balance AI regulation in ways that address legitimate AI risk and support AI innovation provides guidance for how to regulate AI and a potential roadmap for other governments.17 The National Institute of Science and Technology (NIST) is developing a comprehensive approach to developing AI standards that is data-driven and could be the basis for a common understanding on how to measure trustworthy AI.18 The 2021 National Defense Authorization Act (NDAA) further develops AI policy in the defense and non-defense sectors.19 This includes establishing a National AI Research Task Force to investigate the feasibility of establishing a National AI Research Resource, permitting the National Science Foundation (NSF) to establish National AI Research Institutes, and tasking NIST to develop an AI Risk Management Framework. In addition, there is funding for AI R&D as well as AI research institutes.20 In 2020 alone, the federal government has spent almost $1 billion in nondefense artificial intelligence research and development21 and announced $140 million in awards over five years to seven NSF-led AI Research Institutes.
+U.S. AI policy also recognizes the importance of international cooperation on AI: The American AI Initiative recognizes partnerships with U.S. allies and partners represent a key “source of strategic competitive advantage,” and identifies the need to “engage internationally to promote a global environment that supports American AI research and innovation and opens markets for American AI industries.”22 The identified goals of engagement include supporting the uptake of trustworthy AI innovation and promoting trust in and adoption of AI technologies for economic growth and global security.
+Ongoing U.S. efforts to foster international cooperation in AI include bilateral cooperation agreements such as the U.S.-U.K. Cooperation in Artificial Intelligence Research and Development,23 hosting and engaging in international and multistakeholder initiatives such as the G-7 Science and Technology Ministerial Meeting that launched the Global Partnership on AI, and participation in common and formalized AI principles for the innovative and trustworthy development and application of AI such as the OECD Principles on AI discussed below.
+The European Union approach to AI
+The European Commission launched development of its AI strategy in 2017, tasking a High-Level Expert Group on AI to establish guidelines for the trustworthy and ethical use of AI in the EU and later releasing an assessment of Europe’s competitive position in AI.
+Following this, in early 2019 Commission President Ursula von der Leyen announced in her initial policy agenda that developing comprehensive AI legislation would be a priority for her Commission. This led to publication of the Commission’s White Paper on Artificial Intelligence in February 2020, envisioning a “European ecosystem of excellence and trust.” Proposals in the white paper include measures to streamline research and foster collaboration on AI among member states, and increasing investment into AI development and deployment by 70 percent. The white paper also proposes regulating “high-risk” AI applications. These include safety risks in sectors such as transportation as well AI applications with the potential to erode or threaten individual fundamental rights in the EU human rights framework, such as consumer protection, nondiscrimination, and freedom of expression. A draft AI regulation is expected in spring 2021, complemented by an updated safety and liability regime for AI and a European Data Strategy.
+The EU white paper states that “The EU will continue to cooperate with like-minded countries, but also with global players” (which presumably include China), with the proviso that such cooperation “promotes the respect of fundamental rights, including human dignity, pluralism, inclusion, non-discrimination and protection of privacy and personal data. This values-based rationale for AI cooperation has been given content with the development by the AI High Level Expert Group (HLEG) of international ethical standards, where this forms a basis for EU goals of “upward regulatory convergence,” with the aim of creating a level playing field on AI.24
+Following the U.S. election in November 2020, the European Commission proposed a new framework for transatlantic relations with its “New EU-US Agenda for Global Change” white paper.25 Among other topics, there is a clear overture by the EU to the U.S., “to start acting together on AI – based on our shared belief in a human-centric approach. … The EU and the U.S. should intensify their cooperation at bilateral and multilateral levels to promote regulatory convergence and facilitate free data flow with trust on the basis of high standards and safeguards.” Concretely, the commission proposes a Transatlantic AI Agenda to advance regional and global standards rooted in EU values.
+China’s AI policies
+China has a comprehensive and ambitious set of AI policies. The “Next Generation AI Development Plan” released by the Chinese State Council in 201726 includes a plan to become the global leader in AI by 2030.27 Together with China’s Made in China 2025 plan—an initiative to upgrade China’s manufacturing using technology such as AI—the 2017 development plan makes up the core of “China s AI strategy.28 Since then, China has become a world player in AI, by some measure second only to the U.S.,29 and former Google CEO and Chairman Eric Schmidt estimates China will surpass the U.S. in AI by 2025, though other assessments see China further downstream to the U.S. on AI,30 while still others put China ahead already.31 China has advanced its research outputs and expanded links between the Chinese government and local corporations for data collection and analysis to further advance AI systems.32 These benefit in particular from China’s scale as a result of its population and centralized control, which afford a significant comparative advantage in applications that require many iterations on large datasets, like autonomous vehicle technology. China’s AI strategy also needs to be assessed alongside its efforts to internationalize its technology and standards, including along the “Digital Silk Road” as a component of the Chinese Belt and Road Initiative, and by proactive and strategic engagement in international standards organizations.33
+China’s AI policies also include some elements of international cooperation on AI. The main ones are expanding cooperation with leading AI universities and joint research centers globally; expanding its role in determining technological standards; and more actively participating in AI governance including tackling common challenges (robot alienation, safety supervision).34
+Other governments’ AI Policies
+The development of AI policies by the U.S., China, and the EU reflects a broader global trend to develop increasingly comprehensive and strategic approaches to AI.35 Table 1 below summarized the published AI strategies of 28 countries.36 These strategies differ in terms of emphasis and levels of funding, but there are common elements. These include the development of AI industry, with various levels of government funding, policy measures to address the impact of AI on the future of work; policy to increase AI R&D and attract AI talent; and measures to increase access to data for AI, including government-held data. Some AI policies discuss the need for international collaboration and cooperation, such as in R&D and the development of international AI standards.37
+ Table 1. Commonalities in governments’ AI policies
+
+
+
+Policy area
+Notable policy measures
+
+
+Research
+
+• Establish national AI research centers
+• Increase investment in AI research
+
+
+Talent
+
+• Remuneration incentives and visa policies to attract international talent
+• Increase AI programs or components in master’s and doctoral programs
+
+
+Future of work
+
+• Increase reskilling/training programs for workers
+• Incorporate more STEM (including AI) in primary to undergrad curriculum
+
+
+Industrial policy
+
+• Establish digital innovation hubs to connect companies to AI expertise
+• Use state investment funds to support startups and leverage
+private investments
+
+
+Ethics
+• Establish guidelines and promote research on explainability and accountability
+
+
+Digital infrastructure
+
+• Make public datasets available for AI development
+• Develop AI tools in local languages
+
+
+AI specific regulation, privacy, cybersecurity
+
+• Develop regulation to address AI specific opportunities and risks
+• Regulate to ensure privacy
+• Develop cybersecurity policies for infrastructure and data, including supply chains
+
+
+Testing
+• Set up regulatory sandboxes to test AI products
+
+
+Standards
+• Develop international standards
+
+
+AI in Government
+
+• Pilot AI-based solutions in public service
+ 
+
+
+International cooperation
+
+• Engaging in international organizations, working with international partners
+• Establishing international public-private partnerships
+• Promote use of AI to solve common challenges (SDGs) and advance debate on issues arising from AI (robot alienation/citizenship, global safety)
+
+
+
+Source: Authors’ own analysis based on CIFAR (2020): Building an AI World: Report on National and Regional AI Strategies.
+What drives international cooperation on AI?
+Collaboration in AI R&D
+As an advanced product of digital technologies and the internet, AI has grown up across national boundaries. Much research and development is collaborative but, because of its scale and complexity, AI R&D is particularly so. It often involves multidisciplinary teams in multiple locations. It relies heavily on open source software, global publications, shared data, and distributed computing. This open and distributed approach to AI innovation has allowed researchers from China to Australia to India to gain AI skills and contribute to global AI innovation.38
+Successful development and deployment of AI require government policies that can sustain these ecosystems of collaboration. The inclusion of international cooperation as an element of such policies indicates a number of governments appreciate the connection between AI development and collaboration across borders. It also requires a more strategic approach to how Chinese researchers engage, one that avoids shutting the door entirely to collaboration but is clear-eyed about the risks and takes appropriate measures to mitigate these.
+Ethical and trustworthy AI
+One notable area of progress in international cooperation on AI has been development of transnational AI ethical principles. As outlined above, this subject has been a common thread in government policies as well as a frequent focus of frameworks developed in civil society, academia, and industry. These reflect shared democratic liberal values and concerns that AI develop in ways that is nondiscriminatory and protects and respect values including human dignity, autonomy, and privacy. As outlined, important progress has already been made developing common AI ethical principles. This progress is reflected in the OECD Principles on AI, which incorporate the elements discussed above and reflect approval by ministers of the 37 member countries after broad consultation. Translating these principles into a common approach to AI regulation can reinforce AI ethical outcomes and reduce opportunities for regulatory arbitrage that undermine such goals.
+However, even a common approach to AI ethics can produce divergence likely to create barriers to AI innovation and diffusion when translated into domestic regulation without international coordination. As these AI regulatory efforts take shape, international cooperation can minimize unnecessary divergence and find areas where alignment is possible. This includes areas such as assessing AI risk, developing international AI standards, and to the conformity assessment of AI products.
+Response to China
+The focus on ethical AI also reflects concerns among democratic states about China’s development and deployment of AI. China has already shown how its political values have led to the use of AI to surveil and control in ways that are unacceptable in the U.S. and other democratic countries.39 AI is also being exported to other governments with authoritarian goals; in 2018, Freedom House documented 18 countries that purchased AI surveillance tools from China.40 Such policies have led Western countries to explore working together in response, with European Commission President von der Leyen explaining their proposal to strengthen the transatlantic partnership in part as a response to “an illiberal China.”
+The sheer size of China, its access to population-scaled datasets, and its willingness to use state power to boost domestic AI at the expense of AI developed elsewhere, also presents unique challenges to a model for successful AI development driven by markets and open flows of technology and information.41 These challenges arise from government-sponsored cyber theft of commercial technology, state-directed strategic acquisition of western technology, forced data localization requirements, and restrictions on data flows and access to the Chinese market for American and other technology companies. These challenges on AI underscore the need for coordination on AI to support a market-based approach to AI development where gains can be captured broadly, especially given the potential of AI deployment for good.
+Potential friction in trade and commerce
+A common approach to AI ethics alone is unlikely to provide sufficient glue for robust cooperation on AI. Just as unilateral regulation in the name of ethics can erect barriers to trade, other AI policies can have the same effect. Some government efforts to capture the economic benefits from AI is driving mercantilist policies aimed at boosting domestic AI development in the name of digital sovereignty.42 Such policies may have negative spillovers, such as restrictions on access to data, data localization, discriminatory investment, or disproportionate compliance requirements that can hamper economic growth and gains from AI.43 International cooperation is needed here to address the risks of protectionism and avoid trade tensions that limit the global potential of AI.
+Ensure AI addressing global development needs
+International cooperation on AI is also required to ensure that the capacity to develop and use AI is distributed globally and not confined to some developed countries. The number of countries reported in the OECD AI observatory shows the broad interest in harnessing the benefits of AI everywhere. Realizing this interest will require building global capacity for AI development and its application and advocating for policies that support innovation and R&D, including access to data, talent, and computing capacity. Indeed, how the rest of the world develops and uses AI presents the U.S. a key opportunity for global leadership on AI development and norms and in support of broader development needs.
+Existing international governance efforts affecting AI
+As governments carry out their international cooperation aspirations, there is a range of international efforts developing rules and norms around technology and data that have implications for AI.
+The G-7
+The G-7 (Canada, France, Germany, Italy, Japan, the U.K., the U.S., with the EU participating) has been particularly focused on AI. It initiated the Global Partnership for AI (GPAI), promoted by Canada during its G-7 presidency in 2018, and then picked up by France during its 2019 G-7 presidency. The U.S. joined in May 2020.44
+With the U.S. joinder, the GPAI launched as a multistakeholder initiative that includes 18 countries and the EU. It is perhaps the most comprehensive effort to establish a common understanding and approach to AI. GPAI has four working groups of stakeholders and officials focused on Responsible Development, Use and Governance of AI, Data Governance, Innovation and Commercialization, and the Future of Work. This structure is valuable for its incorporation of nongovernmental stakeholders and experts into the workstreams.
+The G-20
+The broader G-20, which includes China, Russia, and Saudi Arabia, also has made AI a subject of discussions. Key outcomes include a set of AI principles (based on the OECD AI Principles) as part of the 2019 Osaka G-20 and ongoing G-20 work that focuses on developing a human-centered approach to AI.45 Related G-20 work affirming the importance of data free flow with trust and data flows is also important for AI development.
+OECD
+The 37-member OECD has several strands of AI-related work. Through its consultative processes, it developed the recommended policy principles adopted by its Council of Ministers, which are reflected in the G-20 statement and present a useful consensus on broad AI issues. The OECD continues to do research to inform government AI policies and it operates an observatory that tracks policy developments, research, and data available via a web portal.46 It also functions as the secretariat for GPAI.
+International AI standards
+Another key area of international cooperation on AI is in international standards development organizations (SDOs). These include ISO/IEC, IEEE, and the International Telecommunications Union (ITU). This work in international AI standards bodies is additional to domestic work, such as that by NIST and regional bodies such as European focused CEN-CENELEC. SDOs have an important role in organizing technical knowledge into a common vocabulary and taxonomy that help to embody concepts like ethics or algorithmic transparency and accountability into measurable or repeatable processes. Thus, their work includes AI standards on terminology and interoperability frameworks for AI,47 and in the case of the IEEE, how to implement ethical AI principles into technical standards.48
+United Nations
+Lead by the ITU, the “AI for Good Global Summit” is the leading U.N. platform for global dialogue on AI.49 The summit includes engagement by 37 U.N. partners. The work of U.N. agencies on AI covers diverse issues from the use of AI for verification of the comprehensive nuclear-test-ban treaty to increasing detection of trade in endangered species. Various U.N. agencies are also engaged in research on AI, such as International Labor Organization (ILO) work on its impact on work and jobs, and UNESCO has commenced a Global Dialogue on the Ethics of AI.
+Multistakeholder bodies
+Both SDOs and multistakeholder forums are important vehicles for integrating nongovernmental bodies into AI policymaking. This helps ensure understanding of technical and business issues as well as transparency and input from affected interests. Many of the frameworks on AI regulation and ethics have emerged from multistakeholder processes convened by academia, advocacy organizations, think tanks, and others. Such processes can also operate as adjuncts to governmental policymaking, as is the case with GPAI, the OECD AI recommendations, and the work of the EU’s High Level Expert Group on AI. In fact, Brookings has been convening a Forum on International Cooperation on AI (FCAI), which brings together officials from Australia, Canada, the EU, Japan, Singapore, and U.S., with a spectrum of experts.
+One challenge of multistakeholder bodies is that not all stakeholders have equal resources or motivation to participate. Often this requires that conveners curate and calibrate the contributions to the process.
+AI governance in trade agreements and other economic forums
+New rules affecting AI are being developed in trade agreements such as U.S.-Mexico-Canada Agreement and Comprehensive and Progressive Agreement for Trans-Pacific Partnership, including commitments to sustain cross-border data flows and to exclude data localization requirements (subject to appropriate exceptions), as well as commitments to protecting privacy and the interoperability of such regimes.50 There are also AI-specific provisions in the Digital Economy Partnership Agreement among Singapore, New Zealand, and Chile and in the Australia-Singapore Digital Economy Agreement.51 In addition, Asia Pacific Economic Cooperation (APEC) has an increasingly robust work program on digital trade issues, including on developing interoperability mechanisms to facilitate data flow among APEC economies.
+Back to top ⇑
+
+Policy recommendations
+As reflected in the foregoing discussion, there are numerous avenues of engagement on international AI cooperation that the Biden-Harris administration should continue to engage with and support. As technology increasingly becomes an object of concern to governments around the world, a broad range of issues from economic development, competitiveness, and digital trade to competition and content on platforms and social media, data flows, privacy, cybersecurity, and other issues have emerged as mainstream concerns alongside AI. Individual leaders have become engaged in these issues. As the Biden administration re-engages with the world and rebuilds alliances, it needs to develop a strategy for international engagement that articulates a comprehensive and balanced vision of how to harness the benefits and address the challenges of technology across this range of issues. Such a statement would provide a guide to U.S. government international engagement from the President on down through each relevant agency. While these issues are not as urgent today as pandemic response or economic recovery, they will grow in impact and will demand leadership at the highest levels. In a global information society, digital policy issues must occupy a prominent place in U.S. governance and diplomacy.
+The multilateral and multistakeholder forums for AI governance and cooperation discussed above offer advantages and disadvantages. The G-7 and G-20 provide opportunities for leaders to discuss technology and AI issues. The latter produced some high-level agreement on principles while the former spawned GPAI, which has the potential to help put principles into practice. However, the inclusion of China and Russia in the G-20 will limit the extent to which that body can drive effective international cooperation on AI as well as other technology issues. And when it comes to a discussion on technology and AI issues, the G-7 overrepresents European countries based on GDP and not technology leadership. The OECD provides a broader forum with significant multistakeholder input and excellent thought leadership, but lacks the chief-of-government engagement of the other groups.
+Rather than bet on one horse for international engagement on AI (and related issues), the U.S. should play the field, seeking out like-minded partners and the best pathways for specific issues and building outward where it can. The U.S. should also consider convening a broader annual leaders-level meeting focused on international cooperation on technology issues including AI. There are various configurations for such a meeting but it should include the U.S., Canada, U.K., EU, Germany, France, Japan, Australia, Singapore, and Chile (and possibly Taiwan, South Korea, and India).
+The recommendations that follow are based on three interrelated goals that should be a focus for the new administration and its international engagement on technology and AI: (1) developing avenues of cooperation for global development of AI, (2) effective alignment with the EU on AI, and (3) addressing the China challenge.
+Deployment of AI for good
+The U.S. should lead an international effort to address pressing global challenges using AI. This would go beyond overarching issues like ethics and governance that have been the focus of discussion in existing international forums, and put cooperation on AI into practice. This should seek to address transnational issues that demand public intervention at scale, such as health (e.g., disease migration) and climate change (e.g., climate modeling). Such leadership could begin in cooperation with the EU and other government) but should become part of broader U.S. diplomatic and development outreach and investment.
+It may be difficult to align certain differences over ethics, regulation, and national aspirations in the abstract. Indeed, discussions of AI policy commonly move from broad principles to specific sectors or use cases because many of the issues of harm, risk, values, and governance are highly contextual. Rather than dealing with such issues as a starting point, therefore, the best way to develop international cooperation may be simply to cooperate—to set out to deploy AI on important problems that demand transnational solutions, require resources on a large scale, and provide a significant demonstration project both for international AI cooperation and for AI for good. A successful project of this kind could achieve two things: It could contribute toward solving a significant global problem, and it could cut through a Gordian knot of differences in approaches to regulation.
+Prioritize engagement with the EU on AI
+The EU is pivotal to successful international cooperation. Together, the U.S. and EU comprise the largest trade relationship in the world, important markets, and key sources of AI capacity including AI talent, capital, and other resources. As the EU embarks on an ambitious agenda of legislation on AI and other technology issues, the two unions need to move rapidly to avoid a repeat of the divergence that has made privacy and data protection a point of ongoing friction. The EU is also an essential partner in dealing with China and other aspects of international cooperation.
+Challenge China on AI
+The U.S. and allies need to develop a coordinated approach to AI ethics, regulation, and development that will stand as a counterpoint to China’s policies. China’s use of state supported AI in ways incompatible with democratic freedoms deeply valued by the United States and its allies underscore the need for a liberal approach to AI development where gains can be captured and distributed broadly.
+While the U.S. needs to work with allies to coordinate on AI in response to these challenges, the U.S. will also need to find ways not to shut the door completely on cooperation with China on some AI-related issues and to counter AI splintering the world along different technology standards and markets.52 This will require accepting Chinese progress in AI, working to constrain threats where feasible, and shaping approaches where possible. The notion that there might be ways to engage with China on AI might be controversial, but it is the case that not all uses of AI by China are unethical or create economic risks. Indeed, China has developed its own AI ethical principles that align with western ethical principles in material ways.53 China’s participation in the G-20 and engagement in international standards bodies provide opportunities to influence Chinese policies and practices. Developing norms of military use of AI is another promising area of bilateral cooperation that could have a significant impact in reducing tensions.54
+Develop ways to globalize adoption and deployment of AI regulation
+The U.S. should work more to lead on an approach to AI regulation that appropriately builds trust and supports innovation, working through many of the forms where AI is being discussed, such as in the G-7 and APEC, in trade agreements, and in its engagement with the EU. The U.S. has a well-tried and successful approach to balancing the need for regulation with innovation, and this framework is being rolled out for AI as well. This features assessing and regulating AI risk and developing AI standards. The U.S. should work with existing partners in these forums to expand the discussion beyond the highly developed economies that comprise the G-7, G-20, and OECD so that additional countries can deploy trustworthy AI.
+In particular, the National Institute of Standards and Technology (NIST) cybersecurity framework is a good model for how to leverage international standards to build a common, globally acceptable approach to AI. In its cybersecurity and privacy frameworks, NIST has mapped international standards onto common vocabularies and the NIST cybersecurity framework provides a roadmap for governments and organizations to tailor practices according to the circumstances. NIST has begun work on core building blocks of trustworthy artificial intelligence, including security and explainability. NIST’s work could be a foundation for collaboration on an international framework that integrates the wide array of international standards into a common approach to AI governance that could ultimately inform policy decisionmaking.
+More robust use of trade agreements and economic forums to promote rules and norms
+In light of the economic and trade implications of AI, the U.S. should expand its use of trade agreements, including in free trade agreements and in discussion in the World Trade Organization to develop rules and norms relevant to AI. A renewed focus on using economic and trade forums to make progress on AI issues should include APEC, where discussions on digital trade and data flow issues are also happening, and which provides a useful forum to develop approaches to AI regulation that appropriately balance the need to address AI risk and support AI innovation.
+
+Back to top ⇑
+
+
+Related Content
+
+
+
+
+
+
+ 
+
+
+
+Report
+The importance and opportunities of transatlantic cooperation on AI
+
+Joshua P. Meltzer, Cameron F. Kerry, and Alex Engler
+Wednesday, June 17, 2020
+
+
+
+
+
+
+
+ 
+
+
+
+TechTank
+The U.S. and EU should base AI regulations on shared democratic values
+
+Cameron F. Kerry, Joshua P. Meltzer, and Alex Engler
+Monday, March 2, 2020
+
+
+
+
+
+
+
+ 
+
+
+
+Technology & Innovation
+How different countries view artificial intelligence
+
+Samar Fatima, Kevin C. Desouza, and Gregory S. Dawson
+Wednesday, June 17, 2020
+
+
+
+
+
+
+
+
+
+
+Footnotes
+
+National Security Commission on Artificial Intelligence, Interim Report November 2019 https://www.nscai.gov/about/reports-to-congress; Erik Brynjolfsson et al., “Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations and Statistics”, NBER Working Paper no. 24001, October 2017 (revised December 2017)
+MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx (mckinsey.com)
+Jessica Fjeld et al, 2020. “Principles Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI”, Berkman Klein Center for Internet & Society Research Publication No. 2020-1
+John P. Holdren, 2016., Preparing for the Future of Artificial Intelligence”, Executive Office of the President, National Science and Technology Council, Committee on Technology, October 2016 preparing_for_the_future_of_ai.pdf (archives.gov)
+Memorandum for the Heads of Executive Departments and Agencies, “Guidance for Regulation of Artificial Intelligence Applications”, 2019-CATS-5830-REV_DOC--DraftOMBMemoonRegulationofAI101019.docx (whitehouse.gov)
+DOD Adopts Ethical Principles for Artificial Intelligence > U.S. DEPARTMENT OF DEFENSE > Release
+Senate and House bills for the Algorithmic Accountability Act (S. 1108, H.R. 2231) were introduced in Congress in 2020, and New Jersey has introduced a similar bill, A.B. 5430, entitled “New Jersey Algorithmic Accountability Act” and would introduce mandatory impact assessments on “high-risk” automated decision-making systems.
+Several state and local laws limit or prohibit the use of biometric data collection, such as the state of California and Massachusetts In 2020, cities like San Francisco, Oakland, California, and Somerville, Massachusetts, passed bills to ban the use of facial recognition software for policing and law enforcement purposes..
+The California Consumer Privacy Act (CCPA) and the recently enacted California Consumer Privacy Rights Act (CPRA) sets out comprehensive data privacy requirements and establish a right to limit algorithmic profiling.
+Examples are the California Bolstering Online Transparency (“B.O.T.”) Act (S.B. 1001) and the Illinois’s Artificial Intelligence Video Interview Act (H.B. 2557).
+Jessica Fjeld et al, 2020. “Principles Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI”, Berkman Klein Center for Internet & Society Research Publication No. 2020-1
+Hagendorff, T. (2020). The Ethics of AI Ethics: An Evaluation of Guidelines. Minds and Machines. https://doi.org/10.1007/s11023-020-09517-8
+Hagendorff, T. (2020). The Ethics of AI Ethics: An Evaluation of Guidelines. Minds and Machines. https://doi.org/10.1007/s11023-020-09517-8
+The National Artificial Intelligence Research and Development Strategic Plan: 2019 Update, Select Committee on Artificial Intelligence of the National Science and Technology Council (June 2019), https://www.nitrd.gov/pubs/National-AI-RD-Strategy-2019.pdf
+https://www.whitehouse.gov/presidential-actions/executive-order-maintaining-american-leadership-artificial-intelligence/
+https://www.whitehouse.gov/briefings-statements/white-house-launches-national-artificial-intelligence-initiative-office/
+
+Click to access M-21-06.pdf
+
+NIST 2019, “U.S. Leadership in AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tool”, prepared in response to Executive Order 13859
+H.R. 6395, 116th Congress (1012-2020)
+https://www.sciencemag.org/news/2020/08/united-states-establishes-dozen-ai-and-quantum-information-science-research-centers
+
+Click to access FY2020-NITRD-AI-RD-Budget-September-2019.pdf
+
+
+Click to access American-AI-Initiative-One-Year-Annual-Report.pdf
+
+https://www.state.gov/declaration-of-the-united-states-of-america-and-the-united-kingdom-of-great-britain-and-northern-ireland-on-cooperation-in-artificial-intelligence-research-and-development-a-shared-vision-for-driving/
+https://ec.europa.eu/info/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en
+ https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2279
+
+Click to access P020171025789108009001.pdf
+
+Full translation at https://www.newamerica.org/cybersecurity-initiative/digichina/blog/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017/
+
+Click to access IoT-ONE-Made-in-China-2025.pdf
+
+Daniel Castro, Michael McLaughlin, and Eline Chivot, “Who Is Winning the AI Race: China, the EU or the United States?” Center for Data Innovation, August 2019
+Jeffrey Ding, “China’s current Capabilities, Policies, and Industrial Ecosystem in AI,” Testimony before the U.S.-China Economic and Security Review Commission, Hearing on Technology, Trade, and Military-Civil Fusion: China’s Pursuit of Artificial Intelligence, New Material and New Energy, June 7m, 2019
+Amy Webb, “China Is Leading in Artificial Intelligence – and American Businesses Should Take Note,” Inc.Magazine, https://www.inc.com/magazine/201809/amy-webb/china-arttifical -intelligence.htm
+[30] https://hai.stanford.edu/ai-index, Chapter 1: Research and Development.
+https://carnegieendowment.org/2020/05/08/will-china-control-global-internet-via-its-digital-silk-road-pub-81857
+https://www.newamerica.org/cybersecurity-initiative/digichina/blog/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017/
+Johnny Kung, 2020. “Building an AI World: Report on National and Regional AI Strategies”, CIFAR
+Johnny Kung, 2020. “Building an AI World: Report on National and Regional AI Strategies”, CIFAR
+ Johnny Kung, 2020. “Building an AI World: Report on National and Regional AI Strategies”, CIFAR
+Stanford HAI Index Report 2019
+The White House, “The United States Approach to the Peoples Republic of China”, May 2020
+
+Click to access 10192018_FINAL_FOTN_2018.pdf
+
+Joshua P. Meltzer., Cameron Kerry and Alex Engler, “Submission to the EC White Paper on Artificial Intelligence, the importance and opportunities of transatlantic cooperation on AI”, June 2020,
+Thierry Breton: European companies must be ones profiting from European data – POLITICO https://www.politico.eu/article/thierry-breton-european-companies-must-be-ones-profiting-from-european-data/
+World Economic Foru, Data Free Flow with Trust (DFFT): Paths Toward Free and Trusted Data Flows, page 9 (2020), https://www.weforum.org/whitepapers/data-free-flow-with-trust-dfft-paths-toward-free-and-trusted-flows.
+G-7 Science and Technology Minister’s Declaration on COVID-19, May 28, 2020;  https://www.state.gov/G-7-science-and-technology-ministers-declaration-on-covid-19/
+Saudi Arabia G-20, G-20 Digital Economy Ministers Meeting, Ministerial Declaration, July 22, 2020
+https://oecd.ai
+ISO/IEC JTC 1/SC 42
+IEEE P7000 series
+United Nations Activities on Artificial Intelligence, 2019 https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2019-1-PDF-E.pdf#:~:text=United percent20Nations percent20Activities percent20on percent20Artificial percent20Intelligence percent20(AI) percent20Experiments,by percent20ANNs, percent20trained percent20on percent20data percent20reviewed percent20by percent20analysts.
+CPTPP articles 14.11, 14.13; USMCA articles 19.8, 19.11, 19.12
+Australia-Singapore Digital Economy 30 & 31; Agreement Article Digital Economy Partnership Agreement, Article 8.2
+O’Hara, K. and Hall, W. (2018), Four Internets: The Geopolitics of Digital Governance, CIGI Papers No. 206, December 2018, https://www.cigionline.org/publications/four-internets-geopolitics-digital-governance
+Will Knight, Why does Beijing suddenly care about AI ethics?’ MIT Technology Review, May 31, 2019 https://www.technologyreview.com/2019/05/31/135129/why-does-china-suddenly-care-about-ai-ethics-and-privacy/
+“Together, the U.S. And China Can Reduce the Risks from AI”, Noema, December 17, 2020 https://www.noemamag.com/together-the-u-s-and-china-can-reduce-the-risks-from-ai/
+
+
+
+
+Acknowledgments:
+The authors thank Rosanna Fanni for providing valuable research assistance.
+
+
+
+Related Topics
+
+117th U.S. Congress
+Global Governance & Politics
+Technology & Innovation
+Transition 2021
+Transition 2021: America's Role in the World
+U.S. Foreign Policy
+
+
+
+
+
+More
+
+
+
+
+
+2021
+Apr
+28
+
+
+Past Event
+Examining China’s telecommunications ambitions
+
+10:00 AM -
+						
+							11:00 AM EDT						
+
+
+						Online Only					
+
+
+
+
+
+
+
+ 
+
+
+
+Op-Ed
+Digital trade deal ripe for the Indo-Pacific
+
+Wendy Cutler and Joshua P. Meltzer
+Monday, April 5, 2021
+
+
+
+
+
+
+2021
+Mar
+19
+
+
+Past Event
+Remembering the first ‘space war’: A discussion with Lt. Gen. B. Chance Saltzman
+
+1:30 PM -
+						
+							2:30 PM EDT						
+
+
+						Online Only					
+
+
+
+
+
+
+
+
+ The Brookings Institution
+
+
+
+
+
+ Facebook
+Find us on Facebook
+
+
+
+
+ Twitter
+Find us on Twitter
+
+
+
+
+ YouTube
+Find us on YouTube
+
+
+
+
+ Podcast
+Listen to our Podcast
+
+
+
+
+ Browse Newsletters
+Browse Newsletters
+
+
+
+
+ RSS
+Subscribe to our RSS
+
+
+
+
+
+Languages
+Español
+中文
+عربي
+
+
+
+
+About Us
+Research Programs
+Find an Expert
+Careers
+Contact
+Terms and Conditions
+Brookings Privacy Policy
+Copyright 2021 The Brookings Institution
+
+
+
+
+ The Brookings Institution
+
+ Close
+
+
+
+
+Trending
+
+
+
+
+				U.S. Economy			
+
+
+
+				International Affairs			
+
+
+
+				Education			
+
+
+
+
+Topics
+
+
+
+
+				AI			
+
+
+
+				Cities & Regions			
+
+
+
+				Global Dev			
+
+
+
+				Intl Affairs			
+
+
+
+				U.S. Economy			
+
+
+
+				U.S. Politics & Govt			
+
+
+
+				More			
+
+
+
+
+
+				About Us			
+
+
+
+				Press Room			
+
+
+
+				Experts			
+
+
+
+				Events			
+
+
+
+				Brookings Press			
+
+
+
+				WashU@Brookings			
+
+
+
+				Careers			
+
+
+
+				Newsletters			
+
+
+
+				Support Brookings			
+
+
+
+Cart
+0
+
+
+
+
+
+Get daily updates from Brookings
+
+
+
+
+
+
+
+    
+Enter Email
+  
+
+
+
+
+ Close
+
+
+
+
+
+
+
+
+
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+
+
+
+
+Cancel
+
+				Post was not sent - check your email addresses!			
+
+				Email check failed, please try again			
+
+				Sorry, your blog cannot share posts by email.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

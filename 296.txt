@@ -1,0 +1,1216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Banking 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global Locations
+Contact
+Media Center
+Alumni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Culture
+
+
+
+
+Our People
+
+
+
+
+Our Values
+
+
+
+
+Our History
+
+
+The Greater Good
+
+
+Strategic Partners
+
+
+
+
+
+
+Our Impact
+
+
+
+
+Recognition and Accolades
+
+
+
+
+
+
+Alumni
+
+
+
+
+Inclusion & Diversity
+
+
+
+
+MissionINCLUDE
+
+
+2018 UK Gender Pay Gap Report
+
+
+Women At Oliver Wyman (WOW)
+
+
+Employees Of Oliver Wyman Enabling Racial & Ethnic Diversity (EMPOWERED)
+
+
+LGBT+ And Allies At Oliver Wyman
+
+
+Veterans Of Oliver Wyman (VOW)
+
+
+Family Life At Oliver Wyman (FLOW)
+
+
+Introversion At Oliver Wyman
+
+
+2020 UK Gender Pay Gap Report
+
+
+
+
+
+
+Oliver Wyman For Society
+
+
+
+
+Sustainability
+
+
+
+
+
+
+
+
+Our Expertise
+
+
+
+
+Industries
+
+
+
+
+Automotive
+
+
+Business Services
+
+
+Communications, Media, And Technology
+
+
+Education
+
+
+Energy
+
+
+Financial Services
+
+
+Health And Life Sciences
+
+
+Industrial Products
+
+
+Public Sector And Policy
+
+
+Retail And Consumer Goods
+
+
+Transportation
+
+
+
+
+
+
+Capabilities
+
+
+
+
+Actuarial
+
+
+Climate And Sustainability
+
+
+Corporate Finance And Restructuring
+
+
+Digital
+
+
+Lippincott: Brand and Innovation
+
+
+Operations
+
+
+Organizational Effectiveness
+
+
+Payments
+
+
+Pricing, Sales, And Marketing
+
+
+Risk Management
+
+
+Strategy
+
+
+Oliver Wyman Engineers
+
+
+
+
+
+
+Insights
+
+
+
+
+Events
+
+
+
+
+Hubs
+
+
+
+
+
+
+
+
+Careers
+
+
+
+
+Students and Recent Graduates
+
+
+
+
+Roles At Oliver Wyman
+
+
+
+
+Apply Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital Banking
+The time is ripe, don’t spoil the opportunity
+
+By Bradley Kellum, Cosimo Schiavone, and Tim de Vries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ // . // 
+
+
+
+
+
+//
+
+
+
+
+Digital Banking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article was first published on March 19, 2021.
+
+Editor's note: Oliver Wyman is monitoring the COVID-19 events in real time, and we have compiled resources to help our clients and the industries they serve. More of our latest Financial Services thought leadership and industry expertise can be found here.
+After mixed success in the late 1990s and early 2000s, digital banking has finally arrived. Buoyed by changes in customer behavior and maturing technology, digital banks are now leveraging a superior client experience and structural cost advantage to rapidly gain customers and deposits. Disruption does not always equal success, however. Without a compelling customer value proposition, sound monetization model and sharp execution, digital banks are more likely to destroy value than make profits at scale.
+In this paper, we explore why the conditions are now right for digital banking, review current market plays and share key lessons for successfully building a digital bank.
+Below is an excerpt from the report, for the full PDF version of Digital Banking, please click here.
+Why Now Is The Right Time For Digital Banking
+Many firms have long held interest in digital banking; however, the first wave of digital banks that entered the market in the late 1990s and early 2000s mostly disappeared within a decade, either merging with more established players or shutting down altogether.
+A winning business strategy requires three critical components: (1) customers, (2) a compelling value proposition and (3) a strong monetization model. Early entrants struggled with all of them (except possibly ING Direct, though it ended up being acquired by Capital One). While many factors contributed to the demise of the early internet banks, arguably a combination of limited customer adoption and nascent technology impacted their success most greatly.
+The world has changed significantly in the past nearly two decades (See note 1)
+Digital-only banks now represent ~7 percent of US consumer liquid depositsDigital lenders account for ~40 percent of all unsecured personal loansNon-bank (including digital) lenders originate over 35 percent of mortgages (and Quicken Loans became the largest originator in 2020)
+Banking is ripe for further disruption—from favorable changes in consumer preferences and market dynamics—to a supportive regulatory environment, and advances in banking technology and enabling infrastructure.
+
+
+
+
+
+Secular trends strongly support digital banking
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Historical headwinds
+
+
+Current tailwinds
+
+
+
+
+
+
+
+
+Customer preferences
+
+
+
+
+Customer dependence upon cash and checks; and therefore, value of the convenience of
+                                the physical location/infrastructure
+Adoption of mobile banking (as primary method of accessing bank) <6% in 2013
+
+
+
+
+Increased customer expectations for convenience and speed driven by experiences with
+                                large retail digital platforms
+Increased consumer trust and adoption of electronic payments and a digital
+                                experience
+Adoption of mobile banking (as primary method of accessing bank) at 34% in 2019;
+                                COVID-19 has further accelerated digital adoption
+
+
+
+
+
+
+Market dynamics
+
+
+
+
+Relatively higher base interest rates and significant demand for deposit liquidity
+                                pushed up the cost of ‘rate-driven’ deposits
+
+
+
+
+Historically low base interest rates and massive inflow of deposits during COVID has
+                                reduced rate paid on digital savings deposits 90% vs. the mid-2000s and 60% vs. the
+                                pre-COVID period
+
+
+
+
+
+
+Regulatory environment
+
+
+
+
+Challenging regulatory environment — only nine bank charter approvals between
+                                2011-2016
+
+
+
+
+Supportive regulatory environment — more than 45 bank charters approved in the last
+                                four years (note: may shift back with the change in US administration, but still
+                                uncertain)
+
+
+
+
+
+
+Technology & infrastructure
+
+
+
+
+Installed software and web browser limited UX
+Expensive, legacy banking platforms with limited mobile capabilities
+High operating costs, even for digital-only banks
+
+
+
+
+APIs and open-banking principles
+Flexible and modularized core banking platforms combined with cloud computing
+                                efficiency and scalability
+Proliferation of key FinTech enablers for security, onboarding, etc.
+Ubiquity of apps, powerful mobile phones, high speed mobile internet
+
+
+
+
+
+
+
+
+
+
+
+
+Source: 
+Federal Deposit Insurance Corporation (FDIC) ; Oliver Wyman research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These changes have resulted in erosion of economics for incumbents. For example, the 280 bps all-in cost of deposits advantage of incumbents vs. digital players in 2007 has eroded to only 20 bps in 2020.
+
+
+
+
+
+All-in cost of deposits (Interest Expense - Fees + Operating Expense) by bank model
+Basis points (BPS) of deposit balance
+
+
+
+
+
+
+
+
+
+Source: 
+Oliver Wyman analysis based on public financials of leading US banks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 Key Success Factors For Building A Digital Bank 
+We offer five key success factors for building a digital bank:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The time is ripe for digital banking, don’t spoil the opportunity. Players that execute well have the potential to enjoy superior economics and structural cost advantages over many incumbents, while firms that delay or fail to develop a sound monetization model may ultimately share the same fate as the first wave disruptors.
+How Can We Help
+We help organizations bring differentiated digitally enabled financial services propositions to market quickly through our integrated approach to strategy and business model design; client experience and value proposition development; brand design & marketing; governance, financial and risk management; technology and operating model set-up (including vendor selection, architecture blueprinting); bank chartering and regulatory guidance; and build/launch support including building bespoke components.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTES
+1. Federal Reserve Bank of St. Louis; Inside Mortgage Finance; Nilson Report; Call reports (via SNL); Oliver Wyman analysis
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download
+
+
+Digital Banking
+
+
+
+
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Digital
+Financial Services
+Retail & Business Banking
+
+
+
+
+
+Authors
+
+
+
+
+
+
+
+
+
+Bradley Kellum
+
+      Partner, Financial Services
+    
+
+
+
+
+
+
+
+
+
+
+
+Cosimo Schiavone
+
+      Principal, Financial Services
+    
+
+
+
+
+
+
+
+
+
+
+
+Tim de Vries
+
+      Principal, Financial Services
+    
+
+
+
+
+
+
+
+
+Related Articles
+
+
+Payments Transformation Continues
+The Merchant Payments Digest is a regular update from Oliver Wyman to keep merchants apprised of developments in the rapidly shifting payments space.
+
+
+How Payments Will Transform In 2021
+Two trends are all but certain: continued disruption from COVID-19, and new, unmet customer needs that will create business opportunities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are one of the FORTUNE 100 best companies in the world to work for
+
+
+
+
+
+Students And Recent Graduates Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marsh McLennan is the leader in risk, strategy and people, helping clients navigate a dynamic environment through four global businesses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms of Use
+
+
+Privacy Notice
+
+
+Cookie Notice
+
+
+
+
+
+
+
+© 2021 Oliver Wyman INC. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+Download Oliver Wyman Ideas App Our latest insights on your mobile device
+
+
+ 
+ 
+
+
+
+
+ © 2021 Oliver Wyman 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

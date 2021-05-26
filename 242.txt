@@ -1,0 +1,32 @@
+
+Diem bridges banking and crypto worlds - OMFIF                                 
+
+
+
+  Subscribe
+
+HomeAboutMembershipMeetingsNewsAnalysisOn DemandContact Menu
+HomeAboutMembershipMeetingsNewsAnalysisOn DemandContactAll news
+MayAprilMarchFebruary
+  Themes
+Asset allocation
+Digital economy
+Global flows
+Gold
+Macroeconomic influences
+Policy and regulation
+Real assets
+Sustainable investmentForthcoming meetingsPast meetings
+  Themes
+Asset allocation
+Digital economy
+Global flows
+Gold
+Macroeconomic influences
+Policy and regulation
+Real assets
+Sustainable investmentDiem bridges banking and crypto worldsby  Katie-Ann Wilson  15 February 2021
+Hybrid approach brings traditional best practices into the digital assets space, co-creator tells OMFIFDiem has been through several iterations since it was first announced in June 2019, with adjustments not being limited to just a change of name. Now those behind the project are beginning to reveal where they expect Diem to sit within financial markets and how the stablecoin will overcome regulatory and structural hurdles as it enters use.On 11 February, an OMFIF audience heard Diem’s plans of becoming a bridge between traditional banking and new, digital assets. Christian Catalini, chief economist at the Diem Association and co-creator of Diem, tackled many of the concerns surrounding it, presenting it as a tightly regulated organisation that is also incorporating some of the best features of new digital currencies.Diem had already made the transition to focus on single currency stablecoins fully backed by reserves, concentrating on the Diem dollar initially and abandoning a move toward a permissionless system in the future. Catalini went further at the OMFIF meeting, detailing how Diem will not allow the stablecoin to be fractionalised or leveraged elsewhere.In his session with OMFIF’s Digital Monetary Institute, Catalini also gave new insights into the ongoing regulatory process. Diem, in its payment license application, is essentially being treated as a new bank by its regulator, the Swiss Financial Market Supervisory Authority, Catalini said. Diem’s reserves follow closely Basel III’s capital requirements and incorporate additional buffers to account for redemptions.The Diem dollar’s credit risk is limited since reserve assets are backed by the US government, although market risks still exist. Catalini stressed that the regulator’s approach to Diem ‘breaks new ground by bringing some of these best practices into the digital assets space’.Diem has always maintained that there will be no fractionalisation of reserves, but concerns about how to enforce this have lingered. Even without lending by the issuer, virtual asset service providers, such as wallet suppliers or operators, could engage in fractional reserve banking with the coins as collateral. Catalini revealed that Diem will address this risk with new requirements for these service providers to back liabilities fully with Diem coins.This makes ‘Diem different relative to any stablecoin today’, Catalini said. There are over 66 live stablecoins with a further 134 in development. Diem, according to Catalini, is the only one held to the same standards of capitalisation and regulation as traditional financial instruments. This is also illustrated by the number of custodian banks which will hold Diem’s reserves. Diem will have multiple custodians spread across different locations, while most stablecoins can hold their entire market capitalisation at a single bank.The Diem Association, a body that drives adoption and secures the Diem network, was described by Catalini as ‘similar to a standard setting organisation’, akin to those that oversee internet companies . The association is made up of 27 firms and includes non-governmental organisations, venture capital companies, cryptocurrency exchanges and payment providers.Each member acts as a ‘validator’,  certifying incoming transactions, and determines the governance of the Diem network. In this way, members contribute to defending its structure and setting the standards. Founding members, however, are, ‘Only needed at the start’, Catalini said.  Over time non-members can compete to join the association and have a say in Diem’s governance and evolution.Catalini said that this potential for others to build and compete for core network services replicates some of the properties of permissionless blockchains without running into regulatory issues, such as unknown participants taking control. This plan of having an initially entrenched membership before transitioning to an open competitive market model is another example of Diem’s ‘hybrid’ approach.During a question and answer session, attendees raised concerns about Diem’s impact on currency substitution, particularly for emerging markets. According to Catalini, Diem’s long-term goal for these markets is ‘to work with the public sector to enable more single currency stablecoins’ denominated in their local currency. For this to work, Diem would still need large amounts of high-quality, liquid assets, which have not yet been built up. In the meantime, service providers offering Diem coins will be regulated by national governments which could impose balance limits to avoid large Diem savings pools.While widespread adoption remains a concern, Diem’s aspiration to reach unbanked populations is severely restricted by their lack of formal identification, reliable network infrastructure, digital literacy and access to mobile phones. These issues remain unsolved. Since Diem will only be able to operate with wallets that follow strict know-your-customer measures, Catalini emphasised that the ‘real critical friction is [to have] better ID’. This is a policy problem that technology alone cannot solve.Katie-Ann Wilson is Programmes Manager, Fintech and Emerging Markets at OMFIF. She can be contacted on: katie-ann.wilson@omfif.org Click here to receive articles in your inboxSubscribe now!LatestCOMMENTARY2021 inflation is legacy of 2008ON DEMANDInnovation and evolution in payments and the role of central banksMEETINGMacroeconomic outlook: South African Reserve Bank’s response to the Covid-19 pandemicTue 25 May 2021VirtualANALYSISChina leads in mobile payments adoptionAboutMembershipCareersContact usSubscribe© 2020 OMFIF Privacy Policy                     
+  Subscribe
+     
+
